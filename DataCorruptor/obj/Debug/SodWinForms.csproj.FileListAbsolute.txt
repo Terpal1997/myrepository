@@ -1,0 +1,52 @@
+D:\Программы\SodWinForms\SodWinForms\obj\Debug\SodWinForms.csprojAssemblyReference.cache
+D:\Программы\SodWinForms\SodWinForms\obj\Debug\SodWinForms.Properties.Resources.resources
+D:\Программы\SodWinForms\SodWinForms\obj\Debug\SodWinForms.csproj.GenerateResource.cache
+D:\Программы\SodWinForms\SodWinForms\obj\Debug\SodWinForms.csproj.CoreCompileInputs.cache
+D:\Программы\SodWinForms\SodWinForms\obj\Debug\SodWinForms.MainWindow.resources
+D:\Программы\SodWinForms\SodWinForms\obj\Debug\SodWinForms.OneDevice.resources
+D:\Программы\SodWinForms\SodWinForms\obj\Debug\SodWinForms.TwoDevices.resources
+D:\Программы\SodWinForms\SodWinForms\obj\Debug\SodWinForms.WritingToFile.resources
+D:\Программы\SodWinForms\SodWinForms\obj\Debug\SodWinForms.SendFromFile.resources
+D:\Программы\SodWinForms\SodWinForms\bin\Debug\Imit test.exe
+D:\Программы\SodWinForms\SodWinForms\bin\Debug\Imit test.pdb
+D:\Программы\SodWinForms\SodWinForms\obj\Debug\Imit test.exe
+D:\Программы\SodWinForms\SodWinForms\obj\Debug\Imit test.pdb
+F:\Программы\SodWinForms\SodWinForms\bin\Debug\Imit test.exe
+F:\Программы\SodWinForms\SodWinForms\bin\Debug\Imit test.pdb
+F:\Программы\SodWinForms\SodWinForms\obj\Debug\SodWinForms.csprojAssemblyReference.cache
+F:\Программы\SodWinForms\SodWinForms\obj\Debug\SodWinForms.MainWindow.resources
+F:\Программы\SodWinForms\SodWinForms\obj\Debug\SodWinForms.OneDevice.resources
+F:\Программы\SodWinForms\SodWinForms\obj\Debug\SodWinForms.Properties.Resources.resources
+F:\Программы\SodWinForms\SodWinForms\obj\Debug\SodWinForms.SendFromFile.resources
+F:\Программы\SodWinForms\SodWinForms\obj\Debug\SodWinForms.TwoDevices.resources
+F:\Программы\SodWinForms\SodWinForms\obj\Debug\SodWinForms.WritingToFile.resources
+F:\Программы\SodWinForms\SodWinForms\obj\Debug\SodWinForms.csproj.GenerateResource.cache
+F:\Программы\SodWinForms\SodWinForms\obj\Debug\SodWinForms.csproj.CoreCompileInputs.cache
+F:\Программы\SodWinForms\SodWinForms\obj\Debug\Imit test.exe
+F:\Программы\SodWinForms\SodWinForms\obj\Debug\Imit test.pdb
+G:\Программы\SodWinForms\SodWinForms\bin\Debug\Imit test.exe
+G:\Программы\SodWinForms\SodWinForms\bin\Debug\Imit test.pdb
+G:\Программы\SodWinForms\SodWinForms\obj\Debug\SodWinForms.csprojAssemblyReference.cache
+G:\Программы\SodWinForms\SodWinForms\obj\Debug\SodWinForms.MainWindow.resources
+G:\Программы\SodWinForms\SodWinForms\obj\Debug\SodWinForms.OneDevice.resources
+G:\Программы\SodWinForms\SodWinForms\obj\Debug\SodWinForms.Properties.Resources.resources
+G:\Программы\SodWinForms\SodWinForms\obj\Debug\SodWinForms.SendFromFile.resources
+G:\Программы\SodWinForms\SodWinForms\obj\Debug\SodWinForms.TwoDevices.resources
+G:\Программы\SodWinForms\SodWinForms\obj\Debug\SodWinForms.WritingToFile.resources
+G:\Программы\SodWinForms\SodWinForms\obj\Debug\SodWinForms.csproj.GenerateResource.cache
+G:\Программы\SodWinForms\SodWinForms\obj\Debug\SodWinForms.csproj.CoreCompileInputs.cache
+G:\Программы\SodWinForms\SodWinForms\obj\Debug\Imit test.exe
+G:\Программы\SodWinForms\SodWinForms\obj\Debug\Imit test.pdb
+E:\Текущие проекты\Искажатель информации\SodWinForms\SodWinForms\bin\Debug\Imit test.exe
+E:\Текущие проекты\Искажатель информации\SodWinForms\SodWinForms\bin\Debug\Imit test.pdb
+E:\Текущие проекты\Искажатель информации\SodWinForms\SodWinForms\obj\Debug\SodWinForms.csprojAssemblyReference.cache
+E:\Текущие проекты\Искажатель информации\SodWinForms\SodWinForms\obj\Debug\SodWinForms.MainWindow.resources
+E:\Текущие проекты\Искажатель информации\SodWinForms\SodWinForms\obj\Debug\SodWinForms.OneDevice.resources
+E:\Текущие проекты\Искажатель информации\SodWinForms\SodWinForms\obj\Debug\SodWinForms.Properties.Resources.resources
+E:\Текущие проекты\Искажатель информации\SodWinForms\SodWinForms\obj\Debug\SodWinForms.SendFromFile.resources
+E:\Текущие проекты\Искажатель информации\SodWinForms\SodWinForms\obj\Debug\SodWinForms.TwoDevices.resources
+E:\Текущие проекты\Искажатель информации\SodWinForms\SodWinForms\obj\Debug\SodWinForms.WritingToFile.resources
+E:\Текущие проекты\Искажатель информации\SodWinForms\SodWinForms\obj\Debug\SodWinForms.csproj.GenerateResource.cache
+E:\Текущие проекты\Искажатель информации\SodWinForms\SodWinForms\obj\Debug\SodWinForms.csproj.CoreCompileInputs.cache
+E:\Текущие проекты\Искажатель информации\SodWinForms\SodWinForms\obj\Debug\Imit test.exe
+E:\Текущие проекты\Искажатель информации\SodWinForms\SodWinForms\obj\Debug\Imit test.pdb

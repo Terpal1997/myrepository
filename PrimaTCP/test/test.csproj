@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E605FFFC-D751-4889-88CB-487EACCB0E65}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>test</RootNamespace>
+    <AssemblyName>test</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>опубликовать\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DebugSymbols>true</DebugSymbols>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdressesEthernet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdressesEthernet.Designer.cs">
+      <DependentUpon>AdressesEthernet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BCVK_Client_MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BCVK_Client_MainForm.Designer.cs">
+      <DependentUpon>BCVK_Client_MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChannelSelector.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChannelSelector.Designer.cs">
+      <DependentUpon>ChannelSelector.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChannelWorker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConnectionCheckForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConnectionCheckForm.Designer.cs">
+      <DependentUpon>ConnectionCheckForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="functions.cs" />
+    <Compile Include="GeneralTestForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GeneralTestForm.Designer.cs">
+      <DependentUpon>GeneralTestForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IniFile.cs" />
+    <Compile Include="MessageBoxWithButtons.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MessageBoxWithButtons.Designer.cs">
+      <DependentUpon>MessageBoxWithButtons.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MessageException.cs" />
+    <Compile Include="NetWorker.cs" />
+    <Compile Include="PerfomanceTestCounter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PerfomanceTestCounter.Designer.cs">
+      <DependentUpon>PerfomanceTestCounter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="pTCChanger.cs" />
+    <Compile Include="RadioStationTuner.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AdressesEthernet.resx">
+      <DependentUpon>AdressesEthernet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BCVK_Client_MainForm.resx">
+      <DependentUpon>BCVK_Client_MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChannelSelector.resx">
+      <DependentUpon>ChannelSelector.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConnectionCheckForm.resx">
+      <DependentUpon>ConnectionCheckForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GeneralTestForm.resx">
+      <DependentUpon>GeneralTestForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessageBoxWithButtons.resx">
+      <DependentUpon>MessageBoxWithButtons.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PerfomanceTestCounter.resx">
+      <DependentUpon>PerfomanceTestCounter.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 и x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>Клиентский профиль .NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

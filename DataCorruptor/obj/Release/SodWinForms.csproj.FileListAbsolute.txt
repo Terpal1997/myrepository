@@ -1,0 +1,39 @@
+D:\Программы\SodWinForms\SodWinForms\obj\Release\SodWinForms.MainWindow.resources
+D:\Программы\SodWinForms\SodWinForms\obj\Release\SodWinForms.OneDevice.resources
+D:\Программы\SodWinForms\SodWinForms\obj\Release\SodWinForms.Properties.Resources.resources
+D:\Программы\SodWinForms\SodWinForms\obj\Release\SodWinForms.TwoDevices.resources
+D:\Программы\SodWinForms\SodWinForms\obj\Release\SodWinForms.csproj.GenerateResource.cache
+D:\Программы\SodWinForms\SodWinForms\obj\Release\SodWinForms.csproj.CoreCompileInputs.cache
+D:\Программы\SodWinForms\SodWinForms\obj\Release\SodWinForms.WritingToFile.resources
+D:\Программы\SodWinForms\SodWinForms\obj\Release\SodWinForms.SendFromFile.resources
+D:\Программы\SodWinForms\SodWinForms\bin\Release\Imit test.exe
+D:\Программы\SodWinForms\SodWinForms\bin\Release\Imit test.pdb
+D:\Программы\SodWinForms\SodWinForms\obj\Release\Imit test.exe
+D:\Программы\SodWinForms\SodWinForms\obj\Release\Imit test.pdb
+D:\Программы\SodWinForms\SodWinForms\obj\Release\SodWinForms.csprojAssemblyReference.cache
+F:\Программы\SodWinForms\SodWinForms\bin\Release\Imit test.exe
+F:\Программы\SodWinForms\SodWinForms\bin\Release\Imit test.pdb
+F:\Программы\SodWinForms\SodWinForms\obj\Release\SodWinForms.csprojAssemblyReference.cache
+F:\Программы\SodWinForms\SodWinForms\obj\Release\SodWinForms.MainWindow.resources
+F:\Программы\SodWinForms\SodWinForms\obj\Release\SodWinForms.OneDevice.resources
+F:\Программы\SodWinForms\SodWinForms\obj\Release\SodWinForms.Properties.Resources.resources
+F:\Программы\SodWinForms\SodWinForms\obj\Release\SodWinForms.SendFromFile.resources
+F:\Программы\SodWinForms\SodWinForms\obj\Release\SodWinForms.TwoDevices.resources
+F:\Программы\SodWinForms\SodWinForms\obj\Release\SodWinForms.WritingToFile.resources
+F:\Программы\SodWinForms\SodWinForms\obj\Release\SodWinForms.csproj.GenerateResource.cache
+F:\Программы\SodWinForms\SodWinForms\obj\Release\SodWinForms.csproj.CoreCompileInputs.cache
+F:\Программы\SodWinForms\SodWinForms\obj\Release\Imit test.exe
+F:\Программы\SodWinForms\SodWinForms\obj\Release\Imit test.pdb
+G:\Программы\SodWinForms\SodWinForms\bin\Release\Imit test.exe
+G:\Программы\SodWinForms\SodWinForms\bin\Release\Imit test.pdb
+G:\Программы\SodWinForms\SodWinForms\obj\Release\SodWinForms.csprojAssemblyReference.cache
+G:\Программы\SodWinForms\SodWinForms\obj\Release\SodWinForms.MainWindow.resources
+G:\Программы\SodWinForms\SodWinForms\obj\Release\SodWinForms.OneDevice.resources
+G:\Программы\SodWinForms\SodWinForms\obj\Release\SodWinForms.Properties.Resources.resources
+G:\Программы\SodWinForms\SodWinForms\obj\Release\SodWinForms.SendFromFile.resources
+G:\Программы\SodWinForms\SodWinForms\obj\Release\SodWinForms.TwoDevices.resources
+G:\Программы\SodWinForms\SodWinForms\obj\Release\SodWinForms.WritingToFile.resources
+G:\Программы\SodWinForms\SodWinForms\obj\Release\SodWinForms.csproj.GenerateResource.cache
+G:\Программы\SodWinForms\SodWinForms\obj\Release\SodWinForms.csproj.CoreCompileInputs.cache
+G:\Программы\SodWinForms\SodWinForms\obj\Release\Imit test.exe
+G:\Программы\SodWinForms\SodWinForms\obj\Release\Imit test.pdb

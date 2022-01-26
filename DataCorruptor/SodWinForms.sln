@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SodWinForms", "SodWinForms\SodWinForms.csproj", "{BD484149-EA10-4294-95BB-D5ADE2051441}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD484149-EA10-4294-95BB-D5ADE2051441}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD484149-EA10-4294-95BB-D5ADE2051441}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD484149-EA10-4294-95BB-D5ADE2051441}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD484149-EA10-4294-95BB-D5ADE2051441}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35F3090D-9E8E-413E-B92A-A3C46B4ECD81}
+	EndGlobalSection
+EndGlobal

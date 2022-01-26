@@ -1,0 +1,9 @@
+D:\Программы\ComListener\ComListener\bin\Debug\ComListener.exe
+D:\Программы\ComListener\ComListener\bin\Debug\ComListener.pdb
+D:\Программы\ComListener\ComListener\obj\Debug\ComListener.csprojAssemblyReference.cache
+D:\Программы\ComListener\ComListener\obj\Debug\ComListener.Form1.resources
+D:\Программы\ComListener\ComListener\obj\Debug\ComListener.Properties.Resources.resources
+D:\Программы\ComListener\ComListener\obj\Debug\ComListener.csproj.GenerateResource.cache
+D:\Программы\ComListener\ComListener\obj\Debug\ComListener.csproj.CoreCompileInputs.cache
+D:\Программы\ComListener\ComListener\obj\Debug\ComListener.exe
+D:\Программы\ComListener\ComListener\obj\Debug\ComListener.pdb

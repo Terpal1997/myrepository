@@ -1,0 +1,27 @@
+D:\Программы\ComListener\ComListener\bin\Release\ComListener.exe
+D:\Программы\ComListener\ComListener\bin\Release\ComListener.pdb
+D:\Программы\ComListener\ComListener\obj\Release\ComListener.csprojAssemblyReference.cache
+D:\Программы\ComListener\ComListener\obj\Release\ComListener.Form1.resources
+D:\Программы\ComListener\ComListener\obj\Release\ComListener.Properties.Resources.resources
+D:\Программы\ComListener\ComListener\obj\Release\ComListener.csproj.GenerateResource.cache
+D:\Программы\ComListener\ComListener\obj\Release\ComListener.csproj.CoreCompileInputs.cache
+D:\Программы\ComListener\ComListener\obj\Release\ComListener.exe
+D:\Программы\ComListener\ComListener\obj\Release\ComListener.pdb
+G:\Программы\ComListener\ComListener\bin\Release\ComListener.exe
+G:\Программы\ComListener\ComListener\bin\Release\ComListener.pdb
+G:\Программы\ComListener\ComListener\obj\Release\ComListener.csprojAssemblyReference.cache
+G:\Программы\ComListener\ComListener\obj\Release\ComListener.Form1.resources
+G:\Программы\ComListener\ComListener\obj\Release\ComListener.Properties.Resources.resources
+G:\Программы\ComListener\ComListener\obj\Release\ComListener.csproj.GenerateResource.cache
+G:\Программы\ComListener\ComListener\obj\Release\ComListener.csproj.CoreCompileInputs.cache
+G:\Программы\ComListener\ComListener\obj\Release\ComListener.exe
+G:\Программы\ComListener\ComListener\obj\Release\ComListener.pdb
+E:\Текущие проекты\Прослушка COM\ComListener\ComListener\bin\Release\ComListener.exe
+E:\Текущие проекты\Прослушка COM\ComListener\ComListener\bin\Release\ComListener.pdb
+E:\Текущие проекты\Прослушка COM\ComListener\ComListener\obj\Release\ComListener.csprojAssemblyReference.cache
+E:\Текущие проекты\Прослушка COM\ComListener\ComListener\obj\Release\ComListener.Form1.resources
+E:\Текущие проекты\Прослушка COM\ComListener\ComListener\obj\Release\ComListener.Properties.Resources.resources
+E:\Текущие проекты\Прослушка COM\ComListener\ComListener\obj\Release\ComListener.csproj.GenerateResource.cache
+E:\Текущие проекты\Прослушка COM\ComListener\ComListener\obj\Release\ComListener.csproj.CoreCompileInputs.cache
+E:\Текущие проекты\Прослушка COM\ComListener\ComListener\obj\Release\ComListener.exe
+E:\Текущие проекты\Прослушка COM\ComListener\ComListener\obj\Release\ComListener.pdb

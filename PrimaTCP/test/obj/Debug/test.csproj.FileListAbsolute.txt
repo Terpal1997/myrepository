@@ -1,0 +1,1156 @@
+C:\test\test\test\bin\Debug\test.exe.config
+C:\test\test\test\bin\Debug\test.exe
+C:\test\test\test\bin\Debug\test.pdb
+C:\test\test\test\obj\Debug\test.exe
+C:\test\test\test\obj\Debug\test.pdb
+C:\test\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\test\test\test\obj\Debug\test.BCVK_Client_MainForm.resources
+C:\test\test\test\obj\Debug\test.csproj.GenerateResource.Cache
+D:\Лесин\test\test\bin\Debug\test.exe.config
+D:\Лесин\test\test\obj\Debug\test.exe
+D:\Лесин\test\test\obj\Debug\test.pdb
+D:\Лесин\test\test\bin\Debug\test.exe
+D:\Лесин\test\test\bin\Debug\test.pdb
+D:\Лесин\test\test\obj\Debug\test.BCVK_Client_MainForm.resources
+D:\Лесин\test\test\obj\Debug\test.csproj.GenerateResource.Cache
+I:\Лесин\test\test\bin\Debug\test.exe.config
+I:\Лесин\test\test\obj\Debug\test.exe
+I:\Лесин\test\test\obj\Debug\test.pdb
+I:\Лесин\test\test\bin\Debug\test.exe
+I:\Лесин\test\test\bin\Debug\test.pdb
+I:\Лесин\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+I:\Лесин\test\test\obj\Debug\test.BCVK_Client_MainForm.resources
+I:\Лесин\test\test\obj\Debug\test.csproj.GenerateResource.Cache
+G:\Лесин\test\test\bin\Debug\test.exe.config
+G:\Лесин\test\test\obj\Debug\test.exe
+G:\Лесин\test\test\obj\Debug\test.pdb
+G:\Лесин\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+G:\Лесин\test\test\obj\Debug\test.BCVK_Client_MainForm.resources
+G:\Лесин\test\test\obj\Debug\test.csproj.GenerateResource.Cache
+G:\Лесин\test\test\bin\Debug\test.exe
+G:\Лесин\test\test\bin\Debug\test.pdb
+G:\Лесин\test — копия\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+G:\Лесин\test — копия\test\obj\Debug\test.BCVK_Client_MainForm.resources
+G:\Лесин\test — копия\test\obj\Debug\test.csproj.GenerateResource.Cache
+G:\Лесин\test — копия\test\bin\Debug\test.exe.config
+G:\Лесин\test — копия\test\bin\Debug\test.exe
+G:\Лесин\test — копия\test\bin\Debug\test.pdb
+G:\Лесин\test — копия\test\obj\Debug\test.exe
+G:\Лесин\test — копия\test\obj\Debug\test.pdb
+D:\Лесин\test — копия\test\bin\Debug\test.exe.config
+D:\Лесин\test — копия\test\obj\Debug\test.exe
+D:\Лесин\test — копия\test\obj\Debug\test.pdb
+D:\Лесин\test — копия\test\bin\Debug\test.exe
+D:\Лесин\test — копия\test\bin\Debug\test.pdb
+D:\Лесин\test — копия\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+D:\Лесин\test — копия\test\obj\Debug\test.BCVK_Client_MainForm.resources
+D:\Лесин\test — копия\test\obj\Debug\test.csproj.GenerateResource.Cache
+E:\Лесин\test — копия\test\bin\Debug\test.exe.config
+E:\Лесин\test — копия\test\bin\Debug\test.exe
+E:\Лесин\test — копия\test\bin\Debug\test.pdb
+E:\Лесин\test — копия\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+E:\Лесин\test — копия\test\obj\Debug\test.BCVK_Client_MainForm.resources
+E:\Лесин\test — копия\test\obj\Debug\test.csproj.GenerateResource.Cache
+E:\Лесин\test — копия\test\obj\Debug\test.exe
+E:\Лесин\test — копия\test\obj\Debug\test.pdb
+C:\Users\user\Desktop\ПРИМА-БМ\tcp\test\test\bin\Debug\test.exe.config
+C:\Users\user\Desktop\ПРИМА-БМ\tcp\test\test\obj\Debug\test.exe
+C:\Users\user\Desktop\ПРИМА-БМ\tcp\test\test\obj\Debug\test.pdb
+C:\Users\user\Desktop\ПРИМА-БМ\tcp\test\test\bin\Debug\test.exe
+C:\Users\user\Desktop\ПРИМА-БМ\tcp\test\test\bin\Debug\test.pdb
+C:\Users\user\Desktop\ПРИМА-БМ\tcp\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\ПРИМА-БМ\tcp\test\test\obj\Debug\test.BCVK_Client_MainForm.resources
+C:\Users\user\Desktop\ПРИМА-БМ\tcp\test\test\obj\Debug\test.csproj.GenerateResource.Cache
+E:\Лесин\test — копия\test\obj\Debug\test.Settings_Form.resources
+D:\Лесин\test — копия\test\obj\Debug\test.Settings_Form.resources
+H:\Лесин\test — копия\test\bin\Debug\test.exe.config
+H:\Лесин\test — копия\test\obj\Debug\test.exe
+H:\Лесин\test — копия\test\obj\Debug\test.pdb
+H:\Лесин\test — копия\test\bin\Debug\test.exe
+H:\Лесин\test — копия\test\bin\Debug\test.pdb
+H:\Лесин\test — копия\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+H:\Лесин\test — копия\test\obj\Debug\test.BCVK_Client_MainForm.resources
+H:\Лесин\test — копия\test\obj\Debug\test.Settings_Form.resources
+H:\Лесин\test — копия\test\obj\Debug\test.csproj.GenerateResource.Cache
+D:\Лесин\test — копия бекап до 32 каналов 19.05.2020\test\bin\Debug\test.exe.config
+D:\Лесин\test — копия бекап до 32 каналов 19.05.2020\test\obj\Debug\test.exe
+D:\Лесин\test — копия бекап до 32 каналов 19.05.2020\test\obj\Debug\test.pdb
+D:\Лесин\test — копия бекап до 32 каналов 19.05.2020\test\bin\Debug\test.exe
+D:\Лесин\test — копия бекап до 32 каналов 19.05.2020\test\bin\Debug\test.pdb
+D:\Лесин\test — копия бекап до 32 каналов 19.05.2020\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+D:\Лесин\test — копия бекап до 32 каналов 19.05.2020\test\obj\Debug\test.BCVK_Client_MainForm.resources
+D:\Лесин\test — копия бекап до 32 каналов 19.05.2020\test\obj\Debug\test.Settings_Form.resources
+D:\Лесин\test — копия бекап до 32 каналов 19.05.2020\test\obj\Debug\test.csproj.GenerateResource.Cache
+D:\Лесин\test — копия бекап до 32 каналов 19.05.2020\test\obj\Debug\test.AdressesEthernet.resources
+D:\Лесин\test\test\obj\Debug\test.AdressesEthernet.resources
+E:\Лесин\test\test\bin\Debug\test.exe.config
+E:\Лесин\test\test\obj\Debug\test.exe
+E:\Лесин\test\test\obj\Debug\test.pdb
+D:\Лесин\test тестовая копия с записью и чтением\test\bin\Debug\test.exe.config
+D:\Лесин\test тестовая копия с записью и чтением\test\obj\Debug\test.exe
+D:\Лесин\test тестовая копия с записью и чтением\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+D:\Лесин\test тестовая копия с записью и чтением\test\obj\Debug\test.AdressesEthernet.resources
+D:\Лесин\test тестовая копия с записью и чтением\test\obj\Debug\test.BCVK_Client_MainForm.resources
+D:\Лесин\test тестовая копия с записью и чтением\test\obj\Debug\test.Settings_Form.resources
+D:\Лесин\test тестовая копия с записью и чтением\test\obj\Debug\test.csproj.GenerateResource.Cache
+D:\Лесин\test тестовая копия с записью и чтением\test\bin\Debug\test.exe
+D:\Лесин\test тестовая копия с записью и чтением\test\bin\Debug\test.pdb
+D:\Лесин\test тестовая копия с записью и чтением\test\obj\Debug\test.pdb
+F:\Лесин\test\test\bin\Debug\test.exe.config
+F:\Лесин\test\test\obj\Debug\test.exe
+F:\Лесин\test\test\obj\Debug\test.pdb
+F:\Лесин\test\test\bin\Debug\test.exe
+F:\Лесин\test\test\bin\Debug\test.pdb
+F:\Лесин\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+F:\Лесин\test\test\obj\Debug\test.AdressesEthernet.resources
+F:\Лесин\test\test\obj\Debug\test.BCVK_Client_MainForm.resources
+F:\Лесин\test\test\obj\Debug\test.Settings_Form.resources
+F:\Лесин\test\test\obj\Debug\test.csproj.GenerateResource.Cache
+D:\Лесин\test — 28.07.2020\test\bin\Debug\test.exe.config
+D:\Лесин\test — 28.07.2020\test\obj\Debug\test.exe
+D:\Лесин\test — 28.07.2020\test\obj\Debug\test.pdb
+D:\Лесин\test — 28.07.2020\test\bin\Debug\test.exe
+D:\Лесин\test — 28.07.2020\test\bin\Debug\test.pdb
+D:\Лесин\test — 28.07.2020\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+D:\Лесин\test — 28.07.2020\test\obj\Debug\test.AdressesEthernet.resources
+D:\Лесин\test — 28.07.2020\test\obj\Debug\test.BCVK_Client_MainForm.resources
+D:\Лесин\test — 28.07.2020\test\obj\Debug\test.Settings_Form.resources
+D:\Лесин\test — 28.07.2020\test\obj\Debug\test.csproj.GenerateResource.Cache
+F:\Лесин\test — 28.07.2020\test\bin\Debug\test.exe.config
+F:\Лесин\test — 28.07.2020\test\obj\Debug\test.exe
+F:\Лесин\test — 28.07.2020\test\obj\Debug\test.pdb
+D:\Лесин\test — 30.07.2020\test\bin\Debug\test.exe.config
+D:\Лесин\test — 30.07.2020\test\obj\Debug\test.exe
+D:\Лесин\test — 30.07.2020\test\obj\Debug\test.pdb
+D:\Лесин\test — 30.07.2020\test\bin\Debug\test.exe
+D:\Лесин\test — 30.07.2020\test\bin\Debug\test.pdb
+D:\Лесин\test — 30.07.2020\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+D:\Лесин\test — 30.07.2020\test\obj\Debug\test.AdressesEthernet.resources
+D:\Лесин\test — 30.07.2020\test\obj\Debug\test.BCVK_Client_MainForm.resources
+D:\Лесин\test — 30.07.2020\test\obj\Debug\test.csproj.GenerateResource.Cache
+E:\Лесин\test — 30.07.2020\test\bin\Debug\test.exe.config
+E:\Лесин\test — 30.07.2020\test\bin\Debug\test.exe
+E:\Лесин\test — 30.07.2020\test\bin\Debug\test.pdb
+E:\Лесин\test — 30.07.2020\test\obj\Debug\test.csprojAssemblyReference.cache
+E:\Лесин\test — 30.07.2020\test\obj\Debug\test.AdressesEthernet.resources
+E:\Лесин\test — 30.07.2020\test\obj\Debug\test.BCVK_Client_MainForm.resources
+E:\Лесин\test — 30.07.2020\test\obj\Debug\test.Settings_Form.resources
+E:\Лесин\test — 30.07.2020\test\obj\Debug\test.csproj.GenerateResource.cache
+E:\Лесин\test — 30.07.2020\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+E:\Лесин\test — 30.07.2020\test\obj\Debug\test.exe
+E:\Лесин\test — 30.07.2020\test\obj\Debug\test.pdb
+D:\Лесин\test — 30.07.2020\test\obj\Debug\test.PerfomanceTestCounter.resources
+D:\Лесин\test — 19.08.2020 — Переделка таблицы\test\bin\Debug\test.exe.config
+D:\Лесин\test — 19.08.2020 — Переделка таблицы\test\obj\Debug\test.exe
+D:\Лесин\test — 19.08.2020 — Переделка таблицы\test\obj\Debug\test.pdb
+D:\Лесин\test — 19.08.2020 — Переделка таблицы\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+D:\Лесин\test — 19.08.2020 — Переделка таблицы\test\obj\Debug\test.AdressesEthernet.resources
+D:\Лесин\test — 19.08.2020 — Переделка таблицы\test\obj\Debug\test.BCVK_Client_MainForm.resources
+D:\Лесин\test — 19.08.2020 — Переделка таблицы\test\obj\Debug\test.PerfomanceTestCounter.resources
+D:\Лесин\test — 19.08.2020 — Переделка таблицы\test\obj\Debug\test.csproj.GenerateResource.Cache
+D:\Лесин\test — 19.08.2020 — Переделка таблицы\test\bin\Debug\test.exe
+D:\Лесин\test — 19.08.2020 — Переделка таблицы\test\bin\Debug\test.pdb
+D:\Лесин\test — 19.08.2020 — Переделка таблицы\test\obj\Debug\test.MessageBoxWithButtons.resources
+D:\Лесин\test — 25.08.2020 — копия\test\bin\Debug\test.exe.config
+D:\Лесин\test — 25.08.2020 — копия\test\obj\Debug\test.exe
+D:\Лесин\test — 25.08.2020 — копия\test\obj\Debug\test.pdb
+D:\Лесин\test — 25.08.2020 — копия\test\bin\Debug\test.exe
+D:\Лесин\test — 25.08.2020 — копия\test\bin\Debug\test.pdb
+D:\Лесин\test — 25.08.2020 — копия\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+D:\Лесин\test — 25.08.2020 — копия\test\obj\Debug\test.AdressesEthernet.resources
+D:\Лесин\test — 25.08.2020 — копия\test\obj\Debug\test.BCVK_Client_MainForm.resources
+D:\Лесин\test — 25.08.2020 — копия\test\obj\Debug\test.MessageBoxWithButtons.resources
+D:\Лесин\test — 25.08.2020 — копия\test\obj\Debug\test.PerfomanceTestCounter.resources
+D:\Лесин\test — 25.08.2020 — копия\test\obj\Debug\test.csproj.GenerateResource.Cache
+D:\Лесин\test — 26.08.2020\test\bin\Debug\test.exe.config
+D:\Лесин\test — 26.08.2020\test\obj\Debug\test.exe
+D:\Лесин\test — 26.08.2020\test\obj\Debug\test.pdb
+D:\Лесин\test — 26.08.2020\test\bin\Debug\test.exe
+D:\Лесин\test — 26.08.2020\test\bin\Debug\test.pdb
+D:\Лесин\test — 26.08.2020\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+D:\Лесин\test — 26.08.2020\test\obj\Debug\test.AdressesEthernet.resources
+D:\Лесин\test — 26.08.2020\test\obj\Debug\test.BCVK_Client_MainForm.resources
+D:\Лесин\test — 26.08.2020\test\obj\Debug\test.MessageBoxWithButtons.resources
+D:\Лесин\test — 26.08.2020\test\obj\Debug\test.PerfomanceTestCounter.resources
+D:\Лесин\test — 26.08.2020\test\obj\Debug\test.csproj.GenerateResource.Cache
+D:\Лесин\test — 26.08.2020\test\obj\Debug\test.ChannelSelector.resources
+D:\Лесин\test — 03.09.2020\test\bin\Debug\test.exe.config
+D:\Лесин\test — 03.09.2020\test\obj\Debug\test.exe
+D:\Лесин\test — 03.09.2020\test\obj\Debug\test.pdb
+D:\Лесин\test — 03.09.2020\test\bin\Debug\test.exe
+D:\Лесин\test — 03.09.2020\test\bin\Debug\test.pdb
+D:\Лесин\test — 03.09.2020\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+D:\Лесин\test — 03.09.2020\test\obj\Debug\test.AdressesEthernet.resources
+D:\Лесин\test — 03.09.2020\test\obj\Debug\test.BCVK_Client_MainForm.resources
+D:\Лесин\test — 03.09.2020\test\obj\Debug\test.ChannelSelector.resources
+D:\Лесин\test — 03.09.2020\test\obj\Debug\test.MessageBoxWithButtons.resources
+D:\Лесин\test — 03.09.2020\test\obj\Debug\test.PerfomanceTestCounter.resources
+D:\Лесин\test — 03.09.2020\test\obj\Debug\test.csproj.GenerateResource.Cache
+D:\Лесин\test — 04.09.2020\test\bin\Debug\test.exe.config
+D:\Лесин\test — 04.09.2020\test\obj\Debug\test.exe
+D:\Лесин\test — 04.09.2020\test\obj\Debug\test.pdb
+D:\Лесин\test — 04.09.2020\test\bin\Debug\test.exe
+D:\Лесин\test — 04.09.2020\test\bin\Debug\test.pdb
+D:\Лесин\test — 04.09.2020\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+D:\Лесин\test — 04.09.2020\test\obj\Debug\test.AdressesEthernet.resources
+D:\Лесин\test — 04.09.2020\test\obj\Debug\test.BCVK_Client_MainForm.resources
+D:\Лесин\test — 04.09.2020\test\obj\Debug\test.ChannelSelector.resources
+D:\Лесин\test — 04.09.2020\test\obj\Debug\test.MessageBoxWithButtons.resources
+D:\Лесин\test — 04.09.2020\test\obj\Debug\test.PerfomanceTestCounter.resources
+D:\Лесин\test — 04.09.2020\test\obj\Debug\test.csproj.GenerateResource.Cache
+D:\Лесин\test — 17.09.2020\test\bin\Debug\test.exe.config
+D:\Лесин\test — 17.09.2020\test\obj\Debug\test.exe
+D:\Лесин\test — 17.09.2020\test\obj\Debug\test.pdb
+D:\Лесин\test — 17.09.2020\test\bin\Debug\test.exe
+D:\Лесин\test — 17.09.2020\test\bin\Debug\test.pdb
+D:\Лесин\test — 17.09.2020\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+D:\Лесин\test — 17.09.2020\test\obj\Debug\test.AdressesEthernet.resources
+D:\Лесин\test — 17.09.2020\test\obj\Debug\test.BCVK_Client_MainForm.resources
+D:\Лесин\test — 17.09.2020\test\obj\Debug\test.ChannelSelector.resources
+D:\Лесин\test — 17.09.2020\test\obj\Debug\test.MessageBoxWithButtons.resources
+D:\Лесин\test — 17.09.2020\test\obj\Debug\test.PerfomanceTestCounter.resources
+D:\Лесин\test — 17.09.2020\test\obj\Debug\test.csproj.GenerateResource.Cache
+D:\Лесин\test — 22.09.2020\test\bin\Debug\test.exe.config
+D:\Лесин\test — 22.09.2020\test\obj\Debug\test.exe
+D:\Лесин\test — 22.09.2020\test\obj\Debug\test.pdb
+D:\Лесин\test — 22.09.2020\test\bin\Debug\test.exe
+D:\Лесин\test — 22.09.2020\test\bin\Debug\test.pdb
+D:\Лесин\test — 22.09.2020\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+D:\Лесин\test — 22.09.2020\test\obj\Debug\test.AdressesEthernet.resources
+D:\Лесин\test — 22.09.2020\test\obj\Debug\test.BCVK_Client_MainForm.resources
+D:\Лесин\test — 22.09.2020\test\obj\Debug\test.ChannelSelector.resources
+D:\Лесин\test — 22.09.2020\test\obj\Debug\test.MessageBoxWithButtons.resources
+D:\Лесин\test — 22.09.2020\test\obj\Debug\test.PerfomanceTestCounter.resources
+D:\Лесин\test — 22.09.2020\test\obj\Debug\test.csproj.GenerateResource.Cache
+D:\Лесин\test — 25.09.2020\test\bin\Debug\test.exe.config
+D:\Лесин\test — 25.09.2020\test\obj\Debug\test.exe
+D:\Лесин\test — 25.09.2020\test\obj\Debug\test.pdb
+D:\Лесин\test — 25.09.2020\test\bin\Debug\test.exe
+D:\Лесин\test — 25.09.2020\test\bin\Debug\test.pdb
+D:\Лесин\test — 25.09.2020\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+D:\Лесин\test — 25.09.2020\test\obj\Debug\test.AdressesEthernet.resources
+D:\Лесин\test — 25.09.2020\test\obj\Debug\test.BCVK_Client_MainForm.resources
+D:\Лесин\test — 25.09.2020\test\obj\Debug\test.ChannelSelector.resources
+D:\Лесин\test — 25.09.2020\test\obj\Debug\test.MessageBoxWithButtons.resources
+D:\Лесин\test — 25.09.2020\test\obj\Debug\test.PerfomanceTestCounter.resources
+D:\Лесин\test — 25.09.2020\test\obj\Debug\test.csproj.GenerateResource.Cache
+D:\Лесин\TEST\test\obj\Debug\test.ChannelSelector.resources
+D:\Лесин\TEST\test\obj\Debug\test.MessageBoxWithButtons.resources
+D:\Лесин\TEST\test\obj\Debug\test.PerfomanceTestCounter.resources
+C:\Users\Dima\Desktop\Новая папка\Лесин\TEST\test\bin\Debug\test.exe.config
+C:\Users\Dima\Desktop\Новая папка\Лесин\TEST\test\bin\Debug\test.exe
+C:\Users\Dima\Desktop\Новая папка\Лесин\TEST\test\bin\Debug\test.pdb
+C:\Users\Dima\Desktop\Новая папка\Лесин\TEST\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\Dima\Desktop\Новая папка\Лесин\TEST\test\obj\Debug\test.AdressesEthernet.resources
+C:\Users\Dima\Desktop\Новая папка\Лесин\TEST\test\obj\Debug\test.BCVK_Client_MainForm.resources
+C:\Users\Dima\Desktop\Новая папка\Лесин\TEST\test\obj\Debug\test.ChannelSelector.resources
+C:\Users\Dima\Desktop\Новая папка\Лесин\TEST\test\obj\Debug\test.MessageBoxWithButtons.resources
+C:\Users\Dima\Desktop\Новая папка\Лесин\TEST\test\obj\Debug\test.PerfomanceTestCounter.resources
+C:\Users\Dima\Desktop\Новая папка\Лесин\TEST\test\obj\Debug\test.csproj.GenerateResource.cache
+C:\Users\Dima\Desktop\Новая папка\Лесин\TEST\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Desktop\Новая папка\Лесин\TEST\test\obj\Debug\test.exe
+C:\Users\Dima\Desktop\Новая папка\Лесин\TEST\test\obj\Debug\test.pdb
+C:\Users\user\Desktop\TEST\test\bin\Debug\test.exe.config
+C:\Users\user\Desktop\TEST\test\obj\Debug\test.exe
+C:\Users\user\Desktop\TEST\test\obj\Debug\test.pdb
+C:\Users\user\Desktop\TEST\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\TEST\test\obj\Debug\test.AdressesEthernet.resources
+C:\Users\user\Desktop\TEST\test\obj\Debug\test.BCVK_Client_MainForm.resources
+C:\Users\user\Desktop\TEST\test\obj\Debug\test.ChannelSelector.resources
+C:\Users\user\Desktop\TEST\test\obj\Debug\test.MessageBoxWithButtons.resources
+C:\Users\user\Desktop\TEST\test\obj\Debug\test.PerfomanceTestCounter.resources
+C:\Users\user\Desktop\TEST\test\obj\Debug\test.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\TEST\test\bin\Debug\test.exe
+C:\Users\user\Desktop\TEST\test\bin\Debug\test.pdb
+D:\сдача ПО 05.10.2020\TEST\test\bin\Debug\test.exe.config
+D:\сдача ПО 05.10.2020\TEST\test\obj\Debug\test.exe
+D:\сдача ПО 05.10.2020\TEST\test\obj\Debug\test.pdb
+D:\сдача ПО 05.10.2020\TEST\test\bin\Debug\test.exe
+D:\сдача ПО 05.10.2020\TEST\test\bin\Debug\test.pdb
+D:\сдача ПО 05.10.2020\TEST\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+D:\сдача ПО 05.10.2020\TEST\test\obj\Debug\test.AdressesEthernet.resources
+D:\сдача ПО 05.10.2020\TEST\test\obj\Debug\test.BCVK_Client_MainForm.resources
+D:\сдача ПО 05.10.2020\TEST\test\obj\Debug\test.ChannelSelector.resources
+D:\сдача ПО 05.10.2020\TEST\test\obj\Debug\test.MessageBoxWithButtons.resources
+D:\сдача ПО 05.10.2020\TEST\test\obj\Debug\test.PerfomanceTestCounter.resources
+D:\сдача ПО 05.10.2020\TEST\test\obj\Debug\test.csproj.GenerateResource.Cache
+D:\Лесин\TEST\test\obj\Debug\test.csprojAssemblyReference.cache
+D:\Лесин\TEST\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\Лесин\TEST 04.12.2020\test\bin\Debug\test.exe.config
+D:\Лесин\TEST 04.12.2020\test\bin\Debug\test.exe
+D:\Лесин\TEST 04.12.2020\test\bin\Debug\test.pdb
+D:\Лесин\TEST 04.12.2020\test\obj\Debug\test.csprojAssemblyReference.cache
+D:\Лесин\TEST 04.12.2020\test\obj\Debug\test.AdressesEthernet.resources
+D:\Лесин\TEST 04.12.2020\test\obj\Debug\test.BCVK_Client_MainForm.resources
+D:\Лесин\TEST 04.12.2020\test\obj\Debug\test.ChannelSelector.resources
+D:\Лесин\TEST 04.12.2020\test\obj\Debug\test.MessageBoxWithButtons.resources
+D:\Лесин\TEST 04.12.2020\test\obj\Debug\test.PerfomanceTestCounter.resources
+D:\Лесин\TEST 04.12.2020\test\obj\Debug\test.csproj.GenerateResource.cache
+D:\Лесин\TEST 04.12.2020\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\Лесин\TEST 04.12.2020\test\obj\Debug\test.exe
+D:\Лесин\TEST 04.12.2020\test\obj\Debug\test.pdb
+D:\Лесин\TEST 18.12.2020\test\bin\Debug\test.exe.config
+D:\Лесин\TEST 18.12.2020\test\bin\Debug\test.exe
+D:\Лесин\TEST 18.12.2020\test\bin\Debug\test.pdb
+D:\Лесин\TEST 18.12.2020\test\obj\Debug\test.csprojAssemblyReference.cache
+D:\Лесин\TEST 18.12.2020\test\obj\Debug\test.AdressesEthernet.resources
+D:\Лесин\TEST 18.12.2020\test\obj\Debug\test.BCVK_Client_MainForm.resources
+D:\Лесин\TEST 18.12.2020\test\obj\Debug\test.ChannelSelector.resources
+D:\Лесин\TEST 18.12.2020\test\obj\Debug\test.MessageBoxWithButtons.resources
+D:\Лесин\TEST 18.12.2020\test\obj\Debug\test.PerfomanceTestCounter.resources
+D:\Лесин\TEST 18.12.2020\test\obj\Debug\test.csproj.GenerateResource.cache
+D:\Лесин\TEST 18.12.2020\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\Лесин\TEST 18.12.2020\test\obj\Debug\test.exe
+D:\Лесин\TEST 18.12.2020\test\obj\Debug\test.pdb
+D:\Лесин\TEST 27.01.2021\test\bin\Debug\test.exe.config
+D:\Лесин\TEST 27.01.2021\test\bin\Debug\test.exe
+D:\Лесин\TEST 27.01.2021\test\bin\Debug\test.pdb
+D:\Лесин\TEST 27.01.2021\test\obj\Debug\test.csprojAssemblyReference.cache
+D:\Лесин\TEST 27.01.2021\test\obj\Debug\test.AdressesEthernet.resources
+D:\Лесин\TEST 27.01.2021\test\obj\Debug\test.BCVK_Client_MainForm.resources
+D:\Лесин\TEST 27.01.2021\test\obj\Debug\test.ChannelSelector.resources
+D:\Лесин\TEST 27.01.2021\test\obj\Debug\test.MessageBoxWithButtons.resources
+D:\Лесин\TEST 27.01.2021\test\obj\Debug\test.PerfomanceTestCounter.resources
+D:\Лесин\TEST 27.01.2021\test\obj\Debug\test.csproj.GenerateResource.cache
+D:\Лесин\TEST 27.01.2021\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\Лесин\TEST 27.01.2021\test\obj\Debug\test.exe
+D:\Лесин\TEST 27.01.2021\test\obj\Debug\test.pdb
+D:\Лесин\TEST 29.01.2021\test\bin\Debug\test.exe.config
+D:\Лесин\TEST 29.01.2021\test\bin\Debug\test.exe
+D:\Лесин\TEST 29.01.2021\test\bin\Debug\test.pdb
+D:\Лесин\TEST 29.01.2021\test\obj\Debug\test.csprojAssemblyReference.cache
+D:\Лесин\TEST 29.01.2021\test\obj\Debug\test.AdressesEthernet.resources
+D:\Лесин\TEST 29.01.2021\test\obj\Debug\test.BCVK_Client_MainForm.resources
+D:\Лесин\TEST 29.01.2021\test\obj\Debug\test.ChannelSelector.resources
+D:\Лесин\TEST 29.01.2021\test\obj\Debug\test.MessageBoxWithButtons.resources
+D:\Лесин\TEST 29.01.2021\test\obj\Debug\test.PerfomanceTestCounter.resources
+D:\Лесин\TEST 29.01.2021\test\obj\Debug\test.csproj.GenerateResource.cache
+D:\Лесин\TEST 29.01.2021\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\Лесин\TEST 29.01.2021\test\obj\Debug\test.exe
+D:\Лесин\TEST 29.01.2021\test\obj\Debug\test.pdb
+D:\Лесин\TEST 01.02.2021\test\bin\Debug\test.exe.config
+D:\Лесин\TEST 01.02.2021\test\bin\Debug\test.exe
+D:\Лесин\TEST 01.02.2021\test\bin\Debug\test.pdb
+D:\Лесин\TEST 01.02.2021\test\obj\Debug\test.csprojAssemblyReference.cache
+D:\Лесин\TEST 01.02.2021\test\obj\Debug\test.AdressesEthernet.resources
+D:\Лесин\TEST 01.02.2021\test\obj\Debug\test.BCVK_Client_MainForm.resources
+D:\Лесин\TEST 01.02.2021\test\obj\Debug\test.ChannelSelector.resources
+D:\Лесин\TEST 01.02.2021\test\obj\Debug\test.MessageBoxWithButtons.resources
+D:\Лесин\TEST 01.02.2021\test\obj\Debug\test.PerfomanceTestCounter.resources
+D:\Лесин\TEST 01.02.2021\test\obj\Debug\test.csproj.GenerateResource.cache
+D:\Лесин\TEST 01.02.2021\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\Лесин\TEST 01.02.2021\test\obj\Debug\test.exe
+D:\Лесин\TEST 01.02.2021\test\obj\Debug\test.pdb
+D:\Лесин\TEST 04.02.2021\test\bin\Debug\test.exe.config
+D:\Лесин\TEST 04.02.2021\test\bin\Debug\test.exe
+D:\Лесин\TEST 04.02.2021\test\bin\Debug\test.pdb
+D:\Лесин\TEST 04.02.2021\test\obj\Debug\test.csprojAssemblyReference.cache
+D:\Лесин\TEST 04.02.2021\test\obj\Debug\test.AdressesEthernet.resources
+D:\Лесин\TEST 04.02.2021\test\obj\Debug\test.BCVK_Client_MainForm.resources
+D:\Лесин\TEST 04.02.2021\test\obj\Debug\test.ChannelSelector.resources
+D:\Лесин\TEST 04.02.2021\test\obj\Debug\test.MessageBoxWithButtons.resources
+D:\Лесин\TEST 04.02.2021\test\obj\Debug\test.PerfomanceTestCounter.resources
+D:\Лесин\TEST 04.02.2021\test\obj\Debug\test.csproj.GenerateResource.cache
+D:\Лесин\TEST 04.02.2021\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\Лесин\TEST 04.02.2021\test\obj\Debug\test.exe
+D:\Лесин\TEST 04.02.2021\test\obj\Debug\test.pdb
+D:\Лесин\TEST 05.02.2021\test\bin\Debug\test.exe.config
+D:\Лесин\TEST 05.02.2021\test\bin\Debug\test.exe
+D:\Лесин\TEST 05.02.2021\test\bin\Debug\test.pdb
+D:\Лесин\TEST 05.02.2021\test\obj\Debug\test.csprojAssemblyReference.cache
+D:\Лесин\TEST 05.02.2021\test\obj\Debug\test.AdressesEthernet.resources
+D:\Лесин\TEST 05.02.2021\test\obj\Debug\test.BCVK_Client_MainForm.resources
+D:\Лесин\TEST 05.02.2021\test\obj\Debug\test.ChannelSelector.resources
+D:\Лесин\TEST 05.02.2021\test\obj\Debug\test.MessageBoxWithButtons.resources
+D:\Лесин\TEST 05.02.2021\test\obj\Debug\test.PerfomanceTestCounter.resources
+D:\Лесин\TEST 05.02.2021\test\obj\Debug\test.csproj.GenerateResource.cache
+D:\Лесин\TEST 05.02.2021\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\Лесин\TEST 05.02.2021\test\obj\Debug\test.exe
+D:\Лесин\TEST 05.02.2021\test\obj\Debug\test.pdb
+D:\Лесин\TEST 06.02.2021\test\bin\Debug\test.exe.config
+D:\Лесин\TEST 06.02.2021\test\bin\Debug\test.exe
+D:\Лесин\TEST 06.02.2021\test\bin\Debug\test.pdb
+D:\Лесин\TEST 06.02.2021\test\obj\Debug\test.csprojAssemblyReference.cache
+D:\Лесин\TEST 06.02.2021\test\obj\Debug\test.AdressesEthernet.resources
+D:\Лесин\TEST 06.02.2021\test\obj\Debug\test.BCVK_Client_MainForm.resources
+D:\Лесин\TEST 06.02.2021\test\obj\Debug\test.ChannelSelector.resources
+D:\Лесин\TEST 06.02.2021\test\obj\Debug\test.MessageBoxWithButtons.resources
+D:\Лесин\TEST 06.02.2021\test\obj\Debug\test.PerfomanceTestCounter.resources
+D:\Лесин\TEST 06.02.2021\test\obj\Debug\test.csproj.GenerateResource.cache
+D:\Лесин\TEST 06.02.2021\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\Лесин\TEST 06.02.2021\test\obj\Debug\test.exe
+D:\Лесин\TEST 06.02.2021\test\obj\Debug\test.pdb
+D:\Лесин\TEST 12.02.2021\test\bin\Debug\test.exe.config
+D:\Лесин\TEST 12.02.2021\test\bin\Debug\test.exe
+D:\Лесин\TEST 12.02.2021\test\bin\Debug\test.pdb
+D:\Лесин\TEST 12.02.2021\test\obj\Debug\test.csprojAssemblyReference.cache
+D:\Лесин\TEST 12.02.2021\test\obj\Debug\test.AdressesEthernet.resources
+D:\Лесин\TEST 12.02.2021\test\obj\Debug\test.BCVK_Client_MainForm.resources
+D:\Лесин\TEST 12.02.2021\test\obj\Debug\test.ChannelSelector.resources
+D:\Лесин\TEST 12.02.2021\test\obj\Debug\test.MessageBoxWithButtons.resources
+D:\Лесин\TEST 12.02.2021\test\obj\Debug\test.PerfomanceTestCounter.resources
+D:\Лесин\TEST 12.02.2021\test\obj\Debug\test.csproj.GenerateResource.cache
+D:\Лесин\TEST 12.02.2021\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\Лесин\TEST 12.02.2021\test\obj\Debug\test.exe
+D:\Лесин\TEST 12.02.2021\test\obj\Debug\test.pdb
+D:\Лесин\TEST 12.02.2021\test\obj\Debug\test.GeneralTestForm.resources
+D:\Лесин\TEST 19.02.2021\test\bin\Debug\test.exe.config
+D:\Лесин\TEST 19.02.2021\test\bin\Debug\test.exe
+D:\Лесин\TEST 19.02.2021\test\bin\Debug\test.pdb
+D:\Лесин\TEST 19.02.2021\test\obj\Debug\test.csprojAssemblyReference.cache
+D:\Лесин\TEST 19.02.2021\test\obj\Debug\test.AdressesEthernet.resources
+D:\Лесин\TEST 19.02.2021\test\obj\Debug\test.BCVK_Client_MainForm.resources
+D:\Лесин\TEST 19.02.2021\test\obj\Debug\test.ChannelSelector.resources
+D:\Лесин\TEST 19.02.2021\test\obj\Debug\test.GeneralTestForm.resources
+D:\Лесин\TEST 19.02.2021\test\obj\Debug\test.MessageBoxWithButtons.resources
+D:\Лесин\TEST 19.02.2021\test\obj\Debug\test.PerfomanceTestCounter.resources
+D:\Лесин\TEST 19.02.2021\test\obj\Debug\test.csproj.GenerateResource.cache
+D:\Лесин\TEST 19.02.2021\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\Лесин\TEST 19.02.2021\test\obj\Debug\test.exe
+D:\Лесин\TEST 19.02.2021\test\obj\Debug\test.pdb
+E:\Лесин\TEST 19.02.2021\test\obj\Debug\test.csprojAssemblyReference.cache
+E:\Лесин\TEST 19.02.2021\test\obj\Debug\test.AdressesEthernet.resources
+E:\Лесин\TEST 19.02.2021\test\obj\Debug\test.BCVK_Client_MainForm.resources
+E:\Лесин\TEST 19.02.2021\test\obj\Debug\test.ChannelSelector.resources
+E:\Лесин\TEST 19.02.2021\test\obj\Debug\test.GeneralTestForm.resources
+E:\Лесин\TEST 19.02.2021\test\obj\Debug\test.MessageBoxWithButtons.resources
+E:\Лесин\TEST 19.02.2021\test\obj\Debug\test.PerfomanceTestCounter.resources
+E:\Лесин\TEST 19.02.2021\test\obj\Debug\test.csproj.GenerateResource.cache
+E:\Лесин\TEST 19.02.2021\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+E:\Лесин\TEST 19.02.2021\test\obj\Debug\test.exe
+E:\Лесин\TEST 19.02.2021\test\obj\Debug\test.pdb
+E:\Лесин\TEST 19.02.2021\test\bin\Debug\test.exe.config
+E:\Лесин\TEST 19.02.2021\test\bin\Debug\test.exe
+E:\Лесин\TEST 19.02.2021\test\bin\Debug\test.pdb
+D:\Лесин\TEST 26.02.2021\test\bin\Debug\test.exe.config
+D:\Лесин\TEST 26.02.2021\test\bin\Debug\test.exe
+D:\Лесин\TEST 26.02.2021\test\bin\Debug\test.pdb
+D:\Лесин\TEST 26.02.2021\test\obj\Debug\test.csprojAssemblyReference.cache
+D:\Лесин\TEST 26.02.2021\test\obj\Debug\test.AdressesEthernet.resources
+D:\Лесин\TEST 26.02.2021\test\obj\Debug\test.BCVK_Client_MainForm.resources
+D:\Лесин\TEST 26.02.2021\test\obj\Debug\test.ChannelSelector.resources
+D:\Лесин\TEST 26.02.2021\test\obj\Debug\test.GeneralTestForm.resources
+D:\Лесин\TEST 26.02.2021\test\obj\Debug\test.MessageBoxWithButtons.resources
+D:\Лесин\TEST 26.02.2021\test\obj\Debug\test.PerfomanceTestCounter.resources
+D:\Лесин\TEST 26.02.2021\test\obj\Debug\test.csproj.GenerateResource.cache
+D:\Лесин\TEST 26.02.2021\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\Лесин\TEST 26.02.2021\test\obj\Debug\test.exe
+D:\Лесин\TEST 26.02.2021\test\obj\Debug\test.pdb
+D:\Лесин\TEST 01.03.2021\test\bin\Debug\test.exe.config
+D:\Лесин\TEST 01.03.2021\test\bin\Debug\test.exe
+D:\Лесин\TEST 01.03.2021\test\bin\Debug\test.pdb
+D:\Лесин\TEST 01.03.2021\test\obj\Debug\test.csprojAssemblyReference.cache
+D:\Лесин\TEST 01.03.2021\test\obj\Debug\test.AdressesEthernet.resources
+D:\Лесин\TEST 01.03.2021\test\obj\Debug\test.BCVK_Client_MainForm.resources
+D:\Лесин\TEST 01.03.2021\test\obj\Debug\test.ChannelSelector.resources
+D:\Лесин\TEST 01.03.2021\test\obj\Debug\test.GeneralTestForm.resources
+D:\Лесин\TEST 01.03.2021\test\obj\Debug\test.MessageBoxWithButtons.resources
+D:\Лесин\TEST 01.03.2021\test\obj\Debug\test.PerfomanceTestCounter.resources
+D:\Лесин\TEST 01.03.2021\test\obj\Debug\test.csproj.GenerateResource.cache
+D:\Лесин\TEST 01.03.2021\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\Лесин\TEST 01.03.2021\test\obj\Debug\test.exe
+D:\Лесин\TEST 01.03.2021\test\obj\Debug\test.pdb
+D:\Лесин\TEST 09.03.2021\test\bin\Debug\test.exe.config
+D:\Лесин\TEST 09.03.2021\test\bin\Debug\test.exe
+D:\Лесин\TEST 09.03.2021\test\bin\Debug\test.pdb
+D:\Лесин\TEST 09.03.2021\test\obj\Debug\test.csprojAssemblyReference.cache
+D:\Лесин\TEST 09.03.2021\test\obj\Debug\test.AdressesEthernet.resources
+D:\Лесин\TEST 09.03.2021\test\obj\Debug\test.BCVK_Client_MainForm.resources
+D:\Лесин\TEST 09.03.2021\test\obj\Debug\test.ChannelSelector.resources
+D:\Лесин\TEST 09.03.2021\test\obj\Debug\test.GeneralTestForm.resources
+D:\Лесин\TEST 09.03.2021\test\obj\Debug\test.MessageBoxWithButtons.resources
+D:\Лесин\TEST 09.03.2021\test\obj\Debug\test.PerfomanceTestCounter.resources
+D:\Лесин\TEST 09.03.2021\test\obj\Debug\test.csproj.GenerateResource.cache
+D:\Лесин\TEST 09.03.2021\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\Лесин\TEST 09.03.2021\test\obj\Debug\test.exe
+D:\Лесин\TEST 09.03.2021\test\obj\Debug\test.pdb
+D:\Лесин\TEST 15.03.2021\test\bin\Debug\test.exe.config
+D:\Лесин\TEST 15.03.2021\test\bin\Debug\test.exe
+D:\Лесин\TEST 15.03.2021\test\bin\Debug\test.pdb
+D:\Лесин\TEST 15.03.2021\test\obj\Debug\test.csprojAssemblyReference.cache
+D:\Лесин\TEST 15.03.2021\test\obj\Debug\test.AdressesEthernet.resources
+D:\Лесин\TEST 15.03.2021\test\obj\Debug\test.BCVK_Client_MainForm.resources
+D:\Лесин\TEST 15.03.2021\test\obj\Debug\test.ChannelSelector.resources
+D:\Лесин\TEST 15.03.2021\test\obj\Debug\test.GeneralTestForm.resources
+D:\Лесин\TEST 15.03.2021\test\obj\Debug\test.MessageBoxWithButtons.resources
+D:\Лесин\TEST 15.03.2021\test\obj\Debug\test.PerfomanceTestCounter.resources
+D:\Лесин\TEST 15.03.2021\test\obj\Debug\test.csproj.GenerateResource.cache
+D:\Лесин\TEST 15.03.2021\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\Лесин\TEST 15.03.2021\test\obj\Debug\test.exe
+D:\Лесин\TEST 15.03.2021\test\obj\Debug\test.pdb
+D:\Лесин\TEST 17.03.2021\test\bin\Debug\test.exe.config
+D:\Лесин\TEST 17.03.2021\test\bin\Debug\test.exe
+D:\Лесин\TEST 17.03.2021\test\bin\Debug\test.pdb
+D:\Лесин\TEST 17.03.2021\test\obj\Debug\test.csprojAssemblyReference.cache
+D:\Лесин\TEST 17.03.2021\test\obj\Debug\test.AdressesEthernet.resources
+D:\Лесин\TEST 17.03.2021\test\obj\Debug\test.BCVK_Client_MainForm.resources
+D:\Лесин\TEST 17.03.2021\test\obj\Debug\test.ChannelSelector.resources
+D:\Лесин\TEST 17.03.2021\test\obj\Debug\test.GeneralTestForm.resources
+D:\Лесин\TEST 17.03.2021\test\obj\Debug\test.MessageBoxWithButtons.resources
+D:\Лесин\TEST 17.03.2021\test\obj\Debug\test.PerfomanceTestCounter.resources
+D:\Лесин\TEST 17.03.2021\test\obj\Debug\test.csproj.GenerateResource.cache
+D:\Лесин\TEST 17.03.2021\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\Лесин\TEST 17.03.2021\test\obj\Debug\test.exe
+D:\Лесин\TEST 17.03.2021\test\obj\Debug\test.pdb
+D:\Лесин\TEST 30.03.2021\test\bin\Debug\test.exe.config
+D:\Лесин\TEST 30.03.2021\test\bin\Debug\test.exe
+D:\Лесин\TEST 30.03.2021\test\bin\Debug\test.pdb
+D:\Лесин\TEST 30.03.2021\test\obj\Debug\test.csprojAssemblyReference.cache
+D:\Лесин\TEST 30.03.2021\test\obj\Debug\test.AdressesEthernet.resources
+D:\Лесин\TEST 30.03.2021\test\obj\Debug\test.BCVK_Client_MainForm.resources
+D:\Лесин\TEST 30.03.2021\test\obj\Debug\test.ChannelSelector.resources
+D:\Лесин\TEST 30.03.2021\test\obj\Debug\test.GeneralTestForm.resources
+D:\Лесин\TEST 30.03.2021\test\obj\Debug\test.MessageBoxWithButtons.resources
+D:\Лесин\TEST 30.03.2021\test\obj\Debug\test.PerfomanceTestCounter.resources
+D:\Лесин\TEST 30.03.2021\test\obj\Debug\test.csproj.GenerateResource.cache
+D:\Лесин\TEST 30.03.2021\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\Лесин\TEST 30.03.2021\test\obj\Debug\test.exe
+D:\Лесин\TEST 30.03.2021\test\obj\Debug\test.pdb
+D:\Лесин\TEST 31.03.2021\test\bin\Debug\test.exe.config
+D:\Лесин\TEST 31.03.2021\test\bin\Debug\test.exe
+D:\Лесин\TEST 31.03.2021\test\bin\Debug\test.pdb
+D:\Лесин\TEST 31.03.2021\test\obj\Debug\test.csprojAssemblyReference.cache
+D:\Лесин\TEST 31.03.2021\test\obj\Debug\test.AdressesEthernet.resources
+D:\Лесин\TEST 31.03.2021\test\obj\Debug\test.BCVK_Client_MainForm.resources
+D:\Лесин\TEST 31.03.2021\test\obj\Debug\test.ChannelSelector.resources
+D:\Лесин\TEST 31.03.2021\test\obj\Debug\test.GeneralTestForm.resources
+D:\Лесин\TEST 31.03.2021\test\obj\Debug\test.MessageBoxWithButtons.resources
+D:\Лесин\TEST 31.03.2021\test\obj\Debug\test.PerfomanceTestCounter.resources
+D:\Лесин\TEST 31.03.2021\test\obj\Debug\test.csproj.GenerateResource.cache
+D:\Лесин\TEST 31.03.2021\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\Лесин\TEST 31.03.2021\test\obj\Debug\test.exe
+D:\Лесин\TEST 31.03.2021\test\obj\Debug\test.pdb
+E:\Лесин\TEST 05.04.2021\test\bin\Debug\test.exe.config
+E:\Лесин\TEST 05.04.2021\test\bin\Debug\test.exe
+E:\Лесин\TEST 05.04.2021\test\bin\Debug\test.pdb
+E:\Лесин\TEST 05.04.2021\test\obj\Debug\test.csprojAssemblyReference.cache
+E:\Лесин\TEST 05.04.2021\test\obj\Debug\test.AdressesEthernet.resources
+E:\Лесин\TEST 05.04.2021\test\obj\Debug\test.BCVK_Client_MainForm.resources
+E:\Лесин\TEST 05.04.2021\test\obj\Debug\test.ChannelSelector.resources
+E:\Лесин\TEST 05.04.2021\test\obj\Debug\test.GeneralTestForm.resources
+E:\Лесин\TEST 05.04.2021\test\obj\Debug\test.MessageBoxWithButtons.resources
+E:\Лесин\TEST 05.04.2021\test\obj\Debug\test.PerfomanceTestCounter.resources
+E:\Лесин\TEST 05.04.2021\test\obj\Debug\test.csproj.GenerateResource.cache
+E:\Лесин\TEST 05.04.2021\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+E:\Лесин\TEST 05.04.2021\test\obj\Debug\test.exe
+E:\Лесин\TEST 05.04.2021\test\obj\Debug\test.pdb
+D:\Лесин\TEST 05.04.2021\test\bin\Debug\test.exe.config
+D:\Лесин\TEST 05.04.2021\test\bin\Debug\test.exe
+D:\Лесин\TEST 05.04.2021\test\bin\Debug\test.pdb
+D:\Лесин\TEST 05.04.2021\test\obj\Debug\test.csprojAssemblyReference.cache
+D:\Лесин\TEST 05.04.2021\test\obj\Debug\test.AdressesEthernet.resources
+D:\Лесин\TEST 05.04.2021\test\obj\Debug\test.BCVK_Client_MainForm.resources
+D:\Лесин\TEST 05.04.2021\test\obj\Debug\test.ChannelSelector.resources
+D:\Лесин\TEST 05.04.2021\test\obj\Debug\test.GeneralTestForm.resources
+D:\Лесин\TEST 05.04.2021\test\obj\Debug\test.MessageBoxWithButtons.resources
+D:\Лесин\TEST 05.04.2021\test\obj\Debug\test.PerfomanceTestCounter.resources
+D:\Лесин\TEST 05.04.2021\test\obj\Debug\test.csproj.GenerateResource.cache
+D:\Лесин\TEST 05.04.2021\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\Лесин\TEST 05.04.2021\test\obj\Debug\test.exe
+D:\Лесин\TEST 05.04.2021\test\obj\Debug\test.pdb
+D:\Программы\TEST 12.04.2021\test\bin\Debug\test.exe.config
+D:\Программы\TEST 12.04.2021\test\bin\Debug\test.exe
+D:\Программы\TEST 12.04.2021\test\bin\Debug\test.pdb
+D:\Программы\TEST 12.04.2021\test\obj\Debug\test.csprojAssemblyReference.cache
+D:\Программы\TEST 12.04.2021\test\obj\Debug\test.AdressesEthernet.resources
+D:\Программы\TEST 12.04.2021\test\obj\Debug\test.BCVK_Client_MainForm.resources
+D:\Программы\TEST 12.04.2021\test\obj\Debug\test.ChannelSelector.resources
+D:\Программы\TEST 12.04.2021\test\obj\Debug\test.GeneralTestForm.resources
+D:\Программы\TEST 12.04.2021\test\obj\Debug\test.MessageBoxWithButtons.resources
+D:\Программы\TEST 12.04.2021\test\obj\Debug\test.PerfomanceTestCounter.resources
+D:\Программы\TEST 12.04.2021\test\obj\Debug\test.csproj.GenerateResource.cache
+D:\Программы\TEST 12.04.2021\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\Программы\TEST 12.04.2021\test\obj\Debug\test.exe
+D:\Программы\TEST 12.04.2021\test\obj\Debug\test.pdb
+D:\Программы\TEST 14.04.2021\test\bin\Debug\test.exe.config
+D:\Программы\TEST 14.04.2021\test\bin\Debug\test.exe
+D:\Программы\TEST 14.04.2021\test\bin\Debug\test.pdb
+D:\Программы\TEST 14.04.2021\test\obj\Debug\test.csprojAssemblyReference.cache
+D:\Программы\TEST 14.04.2021\test\obj\Debug\test.AdressesEthernet.resources
+D:\Программы\TEST 14.04.2021\test\obj\Debug\test.BCVK_Client_MainForm.resources
+D:\Программы\TEST 14.04.2021\test\obj\Debug\test.ChannelSelector.resources
+D:\Программы\TEST 14.04.2021\test\obj\Debug\test.GeneralTestForm.resources
+D:\Программы\TEST 14.04.2021\test\obj\Debug\test.MessageBoxWithButtons.resources
+D:\Программы\TEST 14.04.2021\test\obj\Debug\test.PerfomanceTestCounter.resources
+D:\Программы\TEST 14.04.2021\test\obj\Debug\test.csproj.GenerateResource.cache
+D:\Программы\TEST 14.04.2021\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\Программы\TEST 14.04.2021\test\obj\Debug\test.exe
+D:\Программы\TEST 14.04.2021\test\obj\Debug\test.pdb
+D:\Программы\TEST 20.04.2021\test\bin\Debug\test.exe.config
+D:\Программы\TEST 20.04.2021\test\bin\Debug\test.exe
+D:\Программы\TEST 20.04.2021\test\bin\Debug\test.pdb
+D:\Программы\TEST 20.04.2021\test\obj\Debug\test.csprojAssemblyReference.cache
+D:\Программы\TEST 20.04.2021\test\obj\Debug\test.AdressesEthernet.resources
+D:\Программы\TEST 20.04.2021\test\obj\Debug\test.BCVK_Client_MainForm.resources
+D:\Программы\TEST 20.04.2021\test\obj\Debug\test.ChannelSelector.resources
+D:\Программы\TEST 20.04.2021\test\obj\Debug\test.GeneralTestForm.resources
+D:\Программы\TEST 20.04.2021\test\obj\Debug\test.MessageBoxWithButtons.resources
+D:\Программы\TEST 20.04.2021\test\obj\Debug\test.PerfomanceTestCounter.resources
+D:\Программы\TEST 20.04.2021\test\obj\Debug\test.csproj.GenerateResource.cache
+D:\Программы\TEST 20.04.2021\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\Программы\TEST 20.04.2021\test\obj\Debug\test.exe
+D:\Программы\TEST 20.04.2021\test\obj\Debug\test.pdb
+D:\Программы\TEST 23.04.2021\test\bin\Debug\test.exe.config
+D:\Программы\TEST 23.04.2021\test\bin\Debug\test.exe
+D:\Программы\TEST 23.04.2021\test\bin\Debug\test.pdb
+D:\Программы\TEST 23.04.2021\test\obj\Debug\test.csprojAssemblyReference.cache
+D:\Программы\TEST 23.04.2021\test\obj\Debug\test.AdressesEthernet.resources
+D:\Программы\TEST 23.04.2021\test\obj\Debug\test.BCVK_Client_MainForm.resources
+D:\Программы\TEST 23.04.2021\test\obj\Debug\test.ChannelSelector.resources
+D:\Программы\TEST 23.04.2021\test\obj\Debug\test.GeneralTestForm.resources
+D:\Программы\TEST 23.04.2021\test\obj\Debug\test.MessageBoxWithButtons.resources
+D:\Программы\TEST 23.04.2021\test\obj\Debug\test.PerfomanceTestCounter.resources
+D:\Программы\TEST 23.04.2021\test\obj\Debug\test.csproj.GenerateResource.cache
+D:\Программы\TEST 23.04.2021\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\Программы\TEST 23.04.2021\test\obj\Debug\test.exe
+D:\Программы\TEST 23.04.2021\test\obj\Debug\test.pdb
+D:\Программы\TEST 27.04.2021\test\bin\Debug\test.exe.config
+D:\Программы\TEST 27.04.2021\test\bin\Debug\test.exe
+D:\Программы\TEST 27.04.2021\test\bin\Debug\test.pdb
+D:\Программы\TEST 27.04.2021\test\obj\Debug\test.csprojAssemblyReference.cache
+D:\Программы\TEST 27.04.2021\test\obj\Debug\test.AdressesEthernet.resources
+D:\Программы\TEST 27.04.2021\test\obj\Debug\test.BCVK_Client_MainForm.resources
+D:\Программы\TEST 27.04.2021\test\obj\Debug\test.ChannelSelector.resources
+D:\Программы\TEST 27.04.2021\test\obj\Debug\test.GeneralTestForm.resources
+D:\Программы\TEST 27.04.2021\test\obj\Debug\test.MessageBoxWithButtons.resources
+D:\Программы\TEST 27.04.2021\test\obj\Debug\test.PerfomanceTestCounter.resources
+D:\Программы\TEST 27.04.2021\test\obj\Debug\test.csproj.GenerateResource.cache
+D:\Программы\TEST 27.04.2021\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\Программы\TEST 27.04.2021\test\obj\Debug\test.exe
+D:\Программы\TEST 27.04.2021\test\obj\Debug\test.pdb
+D:\Программы\TEST 27.04.2021\test\obj\Debug\test.ConnectionCheckForm.resources
+D:\Программы\TEST 30.04.2021\test\bin\Debug\test.exe.config
+D:\Программы\TEST 30.04.2021\test\bin\Debug\test.exe
+D:\Программы\TEST 30.04.2021\test\bin\Debug\test.pdb
+D:\Программы\TEST 30.04.2021\test\obj\Debug\test.csprojAssemblyReference.cache
+D:\Программы\TEST 30.04.2021\test\obj\Debug\test.AdressesEthernet.resources
+D:\Программы\TEST 30.04.2021\test\obj\Debug\test.BCVK_Client_MainForm.resources
+D:\Программы\TEST 30.04.2021\test\obj\Debug\test.ChannelSelector.resources
+D:\Программы\TEST 30.04.2021\test\obj\Debug\test.ConnectionCheckForm.resources
+D:\Программы\TEST 30.04.2021\test\obj\Debug\test.GeneralTestForm.resources
+D:\Программы\TEST 30.04.2021\test\obj\Debug\test.MessageBoxWithButtons.resources
+D:\Программы\TEST 30.04.2021\test\obj\Debug\test.PerfomanceTestCounter.resources
+D:\Программы\TEST 30.04.2021\test\obj\Debug\test.csproj.GenerateResource.cache
+D:\Программы\TEST 30.04.2021\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\Программы\TEST 30.04.2021\test\obj\Debug\test.exe
+D:\Программы\TEST 30.04.2021\test\obj\Debug\test.pdb
+D:\Программы\TEST 17.05.2021\test\bin\Debug\test.exe.config
+D:\Программы\TEST 17.05.2021\test\bin\Debug\test.exe
+D:\Программы\TEST 17.05.2021\test\bin\Debug\test.pdb
+D:\Программы\TEST 17.05.2021\test\obj\Debug\test.csprojAssemblyReference.cache
+D:\Программы\TEST 17.05.2021\test\obj\Debug\test.AdressesEthernet.resources
+D:\Программы\TEST 17.05.2021\test\obj\Debug\test.BCVK_Client_MainForm.resources
+D:\Программы\TEST 17.05.2021\test\obj\Debug\test.ChannelSelector.resources
+D:\Программы\TEST 17.05.2021\test\obj\Debug\test.ConnectionCheckForm.resources
+D:\Программы\TEST 17.05.2021\test\obj\Debug\test.GeneralTestForm.resources
+D:\Программы\TEST 17.05.2021\test\obj\Debug\test.MessageBoxWithButtons.resources
+D:\Программы\TEST 17.05.2021\test\obj\Debug\test.PerfomanceTestCounter.resources
+D:\Программы\TEST 17.05.2021\test\obj\Debug\test.csproj.GenerateResource.cache
+D:\Программы\TEST 17.05.2021\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\Программы\TEST 17.05.2021\test\obj\Debug\test.exe
+D:\Программы\TEST 17.05.2021\test\obj\Debug\test.pdb
+D:\Программы\TEST 25.05.2021\test\bin\Debug\test.exe.config
+D:\Программы\TEST 25.05.2021\test\bin\Debug\test.exe
+D:\Программы\TEST 25.05.2021\test\bin\Debug\test.pdb
+D:\Программы\TEST 25.05.2021\test\obj\Debug\test.csprojAssemblyReference.cache
+D:\Программы\TEST 25.05.2021\test\obj\Debug\test.AdressesEthernet.resources
+D:\Программы\TEST 25.05.2021\test\obj\Debug\test.BCVK_Client_MainForm.resources
+D:\Программы\TEST 25.05.2021\test\obj\Debug\test.ChannelSelector.resources
+D:\Программы\TEST 25.05.2021\test\obj\Debug\test.ConnectionCheckForm.resources
+D:\Программы\TEST 25.05.2021\test\obj\Debug\test.GeneralTestForm.resources
+D:\Программы\TEST 25.05.2021\test\obj\Debug\test.MessageBoxWithButtons.resources
+D:\Программы\TEST 25.05.2021\test\obj\Debug\test.PerfomanceTestCounter.resources
+D:\Программы\TEST 25.05.2021\test\obj\Debug\test.csproj.GenerateResource.cache
+D:\Программы\TEST 25.05.2021\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\Программы\TEST 25.05.2021\test\obj\Debug\test.exe
+D:\Программы\TEST 25.05.2021\test\obj\Debug\test.pdb
+D:\Программы\TEST 09.06.2021\test\bin\Debug\test.exe.config
+D:\Программы\TEST 09.06.2021\test\bin\Debug\test.exe
+D:\Программы\TEST 09.06.2021\test\bin\Debug\test.pdb
+D:\Программы\TEST 09.06.2021\test\obj\Debug\test.csprojAssemblyReference.cache
+D:\Программы\TEST 09.06.2021\test\obj\Debug\test.AdressesEthernet.resources
+D:\Программы\TEST 09.06.2021\test\obj\Debug\test.BCVK_Client_MainForm.resources
+D:\Программы\TEST 09.06.2021\test\obj\Debug\test.ChannelSelector.resources
+D:\Программы\TEST 09.06.2021\test\obj\Debug\test.ConnectionCheckForm.resources
+D:\Программы\TEST 09.06.2021\test\obj\Debug\test.GeneralTestForm.resources
+D:\Программы\TEST 09.06.2021\test\obj\Debug\test.MessageBoxWithButtons.resources
+D:\Программы\TEST 09.06.2021\test\obj\Debug\test.PerfomanceTestCounter.resources
+D:\Программы\TEST 09.06.2021\test\obj\Debug\test.csproj.GenerateResource.cache
+D:\Программы\TEST 09.06.2021\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\Программы\TEST 09.06.2021\test\obj\Debug\test.exe
+D:\Программы\TEST 09.06.2021\test\obj\Debug\test.pdb
+D:\Программы\TEST 01.07.2021\test\bin\Debug\test.exe.config
+D:\Программы\TEST 01.07.2021\test\bin\Debug\test.exe
+D:\Программы\TEST 01.07.2021\test\bin\Debug\test.pdb
+D:\Программы\TEST 01.07.2021\test\obj\Debug\test.csprojAssemblyReference.cache
+D:\Программы\TEST 01.07.2021\test\obj\Debug\test.AdressesEthernet.resources
+D:\Программы\TEST 01.07.2021\test\obj\Debug\test.BCVK_Client_MainForm.resources
+D:\Программы\TEST 01.07.2021\test\obj\Debug\test.ChannelSelector.resources
+D:\Программы\TEST 01.07.2021\test\obj\Debug\test.ConnectionCheckForm.resources
+D:\Программы\TEST 01.07.2021\test\obj\Debug\test.GeneralTestForm.resources
+D:\Программы\TEST 01.07.2021\test\obj\Debug\test.MessageBoxWithButtons.resources
+D:\Программы\TEST 01.07.2021\test\obj\Debug\test.PerfomanceTestCounter.resources
+D:\Программы\TEST 01.07.2021\test\obj\Debug\test.csproj.GenerateResource.cache
+D:\Программы\TEST 01.07.2021\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\Программы\TEST 01.07.2021\test\obj\Debug\test.exe
+D:\Программы\TEST 01.07.2021\test\obj\Debug\test.pdb
+D:\Программы\TEST 07.07.2021\test\bin\Debug\test.exe.config
+D:\Программы\TEST 07.07.2021\test\bin\Debug\test.exe
+D:\Программы\TEST 07.07.2021\test\bin\Debug\test.pdb
+D:\Программы\TEST 07.07.2021\test\obj\Debug\test.csprojAssemblyReference.cache
+D:\Программы\TEST 07.07.2021\test\obj\Debug\test.AdressesEthernet.resources
+D:\Программы\TEST 07.07.2021\test\obj\Debug\test.BCVK_Client_MainForm.resources
+D:\Программы\TEST 07.07.2021\test\obj\Debug\test.ChannelSelector.resources
+D:\Программы\TEST 07.07.2021\test\obj\Debug\test.ConnectionCheckForm.resources
+D:\Программы\TEST 07.07.2021\test\obj\Debug\test.GeneralTestForm.resources
+D:\Программы\TEST 07.07.2021\test\obj\Debug\test.MessageBoxWithButtons.resources
+D:\Программы\TEST 07.07.2021\test\obj\Debug\test.PerfomanceTestCounter.resources
+D:\Программы\TEST 07.07.2021\test\obj\Debug\test.csproj.GenerateResource.cache
+D:\Программы\TEST 07.07.2021\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\Программы\TEST 07.07.2021\test\obj\Debug\test.exe
+D:\Программы\TEST 07.07.2021\test\obj\Debug\test.pdb
+F:\Программы\TEST 07.07.2021\test\bin\Debug\test.exe.config
+F:\Программы\TEST 07.07.2021\test\bin\Debug\test.exe
+F:\Программы\TEST 07.07.2021\test\bin\Debug\test.pdb
+F:\Программы\TEST 07.07.2021\test\obj\Debug\test.csprojAssemblyReference.cache
+F:\Программы\TEST 07.07.2021\test\obj\Debug\test.AdressesEthernet.resources
+F:\Программы\TEST 07.07.2021\test\obj\Debug\test.BCVK_Client_MainForm.resources
+F:\Программы\TEST 07.07.2021\test\obj\Debug\test.ChannelSelector.resources
+F:\Программы\TEST 07.07.2021\test\obj\Debug\test.ConnectionCheckForm.resources
+F:\Программы\TEST 07.07.2021\test\obj\Debug\test.GeneralTestForm.resources
+F:\Программы\TEST 07.07.2021\test\obj\Debug\test.MessageBoxWithButtons.resources
+F:\Программы\TEST 07.07.2021\test\obj\Debug\test.PerfomanceTestCounter.resources
+F:\Программы\TEST 07.07.2021\test\obj\Debug\test.csproj.GenerateResource.cache
+F:\Программы\TEST 07.07.2021\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+F:\Программы\TEST 07.07.2021\test\obj\Debug\test.exe
+F:\Программы\TEST 07.07.2021\test\obj\Debug\test.pdb
+F:\Программы\TEST 03.08.2021\test\bin\Debug\test.exe.config
+F:\Программы\TEST 03.08.2021\test\bin\Debug\test.exe
+F:\Программы\TEST 03.08.2021\test\bin\Debug\test.pdb
+F:\Программы\TEST 03.08.2021\test\obj\Debug\test.csprojAssemblyReference.cache
+F:\Программы\TEST 03.08.2021\test\obj\Debug\test.AdressesEthernet.resources
+F:\Программы\TEST 03.08.2021\test\obj\Debug\test.BCVK_Client_MainForm.resources
+F:\Программы\TEST 03.08.2021\test\obj\Debug\test.ChannelSelector.resources
+F:\Программы\TEST 03.08.2021\test\obj\Debug\test.ConnectionCheckForm.resources
+F:\Программы\TEST 03.08.2021\test\obj\Debug\test.GeneralTestForm.resources
+F:\Программы\TEST 03.08.2021\test\obj\Debug\test.MessageBoxWithButtons.resources
+F:\Программы\TEST 03.08.2021\test\obj\Debug\test.PerfomanceTestCounter.resources
+F:\Программы\TEST 03.08.2021\test\obj\Debug\test.csproj.GenerateResource.cache
+F:\Программы\TEST 03.08.2021\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+F:\Программы\TEST 03.08.2021\test\obj\Debug\test.exe
+F:\Программы\TEST 03.08.2021\test\obj\Debug\test.pdb
+F:\Программы\TEST 03.08.2021 — копия\test\bin\Debug\test.exe.config
+F:\Программы\TEST 03.08.2021 — копия\test\obj\Debug\test.exe
+F:\Программы\TEST 03.08.2021 — копия\test\obj\Debug\test.pdb
+F:\Программы\TEST 03.08.2021 — копия\test\bin\Debug\test.exe
+F:\Программы\TEST 03.08.2021 — копия\test\bin\Debug\test.pdb
+F:\Программы\TEST 03.08.2021 — копия\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+F:\Программы\TEST 03.08.2021 — копия\test\obj\Debug\test.AdressesEthernet.resources
+F:\Программы\TEST 03.08.2021 — копия\test\obj\Debug\test.BCVK_Client_MainForm.resources
+F:\Программы\TEST 03.08.2021 — копия\test\obj\Debug\test.ChannelSelector.resources
+F:\Программы\TEST 03.08.2021 — копия\test\obj\Debug\test.ConnectionCheckForm.resources
+F:\Программы\TEST 03.08.2021 — копия\test\obj\Debug\test.GeneralTestForm.resources
+F:\Программы\TEST 03.08.2021 — копия\test\obj\Debug\test.MessageBoxWithButtons.resources
+F:\Программы\TEST 03.08.2021 — копия\test\obj\Debug\test.PerfomanceTestCounter.resources
+F:\Программы\TEST 03.08.2021 — копия\test\obj\Debug\test.csproj.GenerateResource.Cache
+F:\Программы\TEST 04.08.2021\test\bin\Debug\test.exe.config
+F:\Программы\TEST 04.08.2021\test\obj\Debug\test.exe
+F:\Программы\TEST 04.08.2021\test\obj\Debug\test.pdb
+F:\Программы\TEST 04.08.2021\test\bin\Debug\test.exe
+F:\Программы\TEST 04.08.2021\test\bin\Debug\test.pdb
+F:\Программы\TEST 04.08.2021\test\obj\Debug\test.AdressesEthernet.resources
+F:\Программы\TEST 04.08.2021\test\obj\Debug\test.BCVK_Client_MainForm.resources
+F:\Программы\TEST 04.08.2021\test\obj\Debug\test.ChannelSelector.resources
+F:\Программы\TEST 04.08.2021\test\obj\Debug\test.ConnectionCheckForm.resources
+F:\Программы\TEST 04.08.2021\test\obj\Debug\test.GeneralTestForm.resources
+F:\Программы\TEST 04.08.2021\test\obj\Debug\test.MessageBoxWithButtons.resources
+F:\Программы\TEST 04.08.2021\test\obj\Debug\test.PerfomanceTestCounter.resources
+F:\Программы\TEST 04.08.2021\test\obj\Debug\test.csproj.GenerateResource.Cache
+F:\Программы\TEST 04.08.2021\test\obj\Debug\test.csprojAssemblyReference.cache
+F:\Программы\TEST 04.08.2021\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+E:\Программы\TEST 05.08.2021\test\obj\Debug\test.csprojAssemblyReference.cache
+E:\Программы\TEST 05.08.2021\test\obj\Debug\test.AdressesEthernet.resources
+E:\Программы\TEST 05.08.2021\test\obj\Debug\test.BCVK_Client_MainForm.resources
+E:\Программы\TEST 05.08.2021\test\obj\Debug\test.ChannelSelector.resources
+E:\Программы\TEST 05.08.2021\test\obj\Debug\test.ConnectionCheckForm.resources
+E:\Программы\TEST 05.08.2021\test\obj\Debug\test.GeneralTestForm.resources
+E:\Программы\TEST 05.08.2021\test\obj\Debug\test.MessageBoxWithButtons.resources
+E:\Программы\TEST 05.08.2021\test\obj\Debug\test.PerfomanceTestCounter.resources
+E:\Программы\TEST 05.08.2021\test\obj\Debug\test.csproj.GenerateResource.cache
+E:\Программы\TEST 05.08.2021\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+E:\Программы\TEST 05.08.2021\test\obj\Debug\test.exe
+E:\Программы\TEST 05.08.2021\test\obj\Debug\test.pdb
+E:\Программы\TEST 05.08.2021\test\bin\Debug\test.exe.config
+E:\Программы\TEST 05.08.2021\test\bin\Debug\test.exe
+E:\Программы\TEST 05.08.2021\test\bin\Debug\test.pdb
+F:\Программы\TEST 05.08.2021\test\bin\Debug\test.exe.config
+F:\Программы\TEST 05.08.2021\test\obj\Debug\test.exe
+F:\Программы\TEST 05.08.2021\test\obj\Debug\test.pdb
+F:\Программы\TEST 05.08.2021\test\bin\Debug\test.exe
+F:\Программы\TEST 05.08.2021\test\bin\Debug\test.pdb
+F:\Программы\TEST 05.08.2021\test\obj\Debug\test.AdressesEthernet.resources
+F:\Программы\TEST 05.08.2021\test\obj\Debug\test.BCVK_Client_MainForm.resources
+F:\Программы\TEST 05.08.2021\test\obj\Debug\test.ChannelSelector.resources
+F:\Программы\TEST 05.08.2021\test\obj\Debug\test.ConnectionCheckForm.resources
+F:\Программы\TEST 05.08.2021\test\obj\Debug\test.GeneralTestForm.resources
+F:\Программы\TEST 05.08.2021\test\obj\Debug\test.MessageBoxWithButtons.resources
+F:\Программы\TEST 05.08.2021\test\obj\Debug\test.PerfomanceTestCounter.resources
+F:\Программы\TEST 05.08.2021\test\obj\Debug\test.csproj.GenerateResource.Cache
+F:\Программы\TEST 10.08.2021\test\bin\Debug\test.exe.config
+F:\Программы\TEST 10.08.2021\test\bin\Debug\test.exe
+F:\Программы\TEST 10.08.2021\test\bin\Debug\test.pdb
+F:\Программы\TEST 10.08.2021\test\obj\Debug\test.AdressesEthernet.resources
+F:\Программы\TEST 10.08.2021\test\obj\Debug\test.BCVK_Client_MainForm.resources
+F:\Программы\TEST 10.08.2021\test\obj\Debug\test.ChannelSelector.resources
+F:\Программы\TEST 10.08.2021\test\obj\Debug\test.ConnectionCheckForm.resources
+F:\Программы\TEST 10.08.2021\test\obj\Debug\test.GeneralTestForm.resources
+F:\Программы\TEST 10.08.2021\test\obj\Debug\test.MessageBoxWithButtons.resources
+F:\Программы\TEST 10.08.2021\test\obj\Debug\test.PerfomanceTestCounter.resources
+F:\Программы\TEST 10.08.2021\test\obj\Debug\test.csproj.GenerateResource.cache
+F:\Программы\TEST 10.08.2021\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+F:\Программы\TEST 10.08.2021\test\obj\Debug\test.exe
+F:\Программы\TEST 10.08.2021\test\obj\Debug\test.pdb
+E:\Программы\TEST 10.08.2021\test\bin\Debug\test.exe.config
+E:\Программы\TEST 10.08.2021\test\bin\Debug\test.exe
+E:\Программы\TEST 10.08.2021\test\bin\Debug\test.pdb
+E:\Программы\TEST 10.08.2021\test\obj\Debug\test.AdressesEthernet.resources
+E:\Программы\TEST 10.08.2021\test\obj\Debug\test.BCVK_Client_MainForm.resources
+E:\Программы\TEST 10.08.2021\test\obj\Debug\test.ChannelSelector.resources
+E:\Программы\TEST 10.08.2021\test\obj\Debug\test.ConnectionCheckForm.resources
+E:\Программы\TEST 10.08.2021\test\obj\Debug\test.GeneralTestForm.resources
+E:\Программы\TEST 10.08.2021\test\obj\Debug\test.MessageBoxWithButtons.resources
+E:\Программы\TEST 10.08.2021\test\obj\Debug\test.PerfomanceTestCounter.resources
+E:\Программы\TEST 10.08.2021\test\obj\Debug\test.csproj.GenerateResource.cache
+E:\Программы\TEST 10.08.2021\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+E:\Программы\TEST 10.08.2021\test\obj\Debug\test.exe
+E:\Программы\TEST 10.08.2021\test\obj\Debug\test.pdb
+E:\Программы\TEST 13.08.2021\test\bin\Debug\test.exe.config
+E:\Программы\TEST 13.08.2021\test\bin\Debug\test.exe
+E:\Программы\TEST 13.08.2021\test\bin\Debug\test.pdb
+E:\Программы\TEST 13.08.2021\test\obj\Debug\test.csprojAssemblyReference.cache
+E:\Программы\TEST 13.08.2021\test\obj\Debug\test.AdressesEthernet.resources
+E:\Программы\TEST 13.08.2021\test\obj\Debug\test.BCVK_Client_MainForm.resources
+E:\Программы\TEST 13.08.2021\test\obj\Debug\test.ChannelSelector.resources
+E:\Программы\TEST 13.08.2021\test\obj\Debug\test.ConnectionCheckForm.resources
+E:\Программы\TEST 13.08.2021\test\obj\Debug\test.GeneralTestForm.resources
+E:\Программы\TEST 13.08.2021\test\obj\Debug\test.MessageBoxWithButtons.resources
+E:\Программы\TEST 13.08.2021\test\obj\Debug\test.PerfomanceTestCounter.resources
+E:\Программы\TEST 13.08.2021\test\obj\Debug\test.csproj.GenerateResource.cache
+E:\Программы\TEST 13.08.2021\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+E:\Программы\TEST 13.08.2021\test\obj\Debug\test.exe
+E:\Программы\TEST 13.08.2021\test\obj\Debug\test.pdb
+E:\Программы\TEST 17.08.2021\test\bin\Debug\test.exe.config
+E:\Программы\TEST 17.08.2021\test\bin\Debug\test.exe
+E:\Программы\TEST 17.08.2021\test\bin\Debug\test.pdb
+E:\Программы\TEST 17.08.2021\test\obj\Debug\test.csprojAssemblyReference.cache
+E:\Программы\TEST 17.08.2021\test\obj\Debug\test.AdressesEthernet.resources
+E:\Программы\TEST 17.08.2021\test\obj\Debug\test.BCVK_Client_MainForm.resources
+E:\Программы\TEST 17.08.2021\test\obj\Debug\test.ChannelSelector.resources
+E:\Программы\TEST 17.08.2021\test\obj\Debug\test.ConnectionCheckForm.resources
+E:\Программы\TEST 17.08.2021\test\obj\Debug\test.GeneralTestForm.resources
+E:\Программы\TEST 17.08.2021\test\obj\Debug\test.MessageBoxWithButtons.resources
+E:\Программы\TEST 17.08.2021\test\obj\Debug\test.PerfomanceTestCounter.resources
+E:\Программы\TEST 17.08.2021\test\obj\Debug\test.csproj.GenerateResource.cache
+E:\Программы\TEST 17.08.2021\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+E:\Программы\TEST 17.08.2021\test\obj\Debug\test.exe
+E:\Программы\TEST 17.08.2021\test\obj\Debug\test.pdb
+F:\Программы\TEST 17.08.2021\test\bin\Debug\test.exe.config
+F:\Программы\TEST 17.08.2021\test\bin\Debug\test.exe
+F:\Программы\TEST 17.08.2021\test\bin\Debug\test.pdb
+F:\Программы\TEST 17.08.2021\test\obj\Debug\test.csprojAssemblyReference.cache
+F:\Программы\TEST 17.08.2021\test\obj\Debug\test.AdressesEthernet.resources
+F:\Программы\TEST 17.08.2021\test\obj\Debug\test.BCVK_Client_MainForm.resources
+F:\Программы\TEST 17.08.2021\test\obj\Debug\test.ChannelSelector.resources
+F:\Программы\TEST 17.08.2021\test\obj\Debug\test.ConnectionCheckForm.resources
+F:\Программы\TEST 17.08.2021\test\obj\Debug\test.GeneralTestForm.resources
+F:\Программы\TEST 17.08.2021\test\obj\Debug\test.MessageBoxWithButtons.resources
+F:\Программы\TEST 17.08.2021\test\obj\Debug\test.PerfomanceTestCounter.resources
+F:\Программы\TEST 17.08.2021\test\obj\Debug\test.csproj.GenerateResource.cache
+F:\Программы\TEST 17.08.2021\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+F:\Программы\TEST 17.08.2021\test\obj\Debug\test.exe
+F:\Программы\TEST 17.08.2021\test\obj\Debug\test.pdb
+C:\Users\USER\Desktop\TEST 17.08.2021\test\bin\Debug\test.exe.config
+C:\Users\USER\Desktop\TEST 17.08.2021\test\bin\Debug\test.exe
+C:\Users\USER\Desktop\TEST 17.08.2021\test\bin\Debug\test.pdb
+C:\Users\USER\Desktop\TEST 17.08.2021\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\TEST 17.08.2021\test\obj\Debug\test.AdressesEthernet.resources
+C:\Users\USER\Desktop\TEST 17.08.2021\test\obj\Debug\test.BCVK_Client_MainForm.resources
+C:\Users\USER\Desktop\TEST 17.08.2021\test\obj\Debug\test.ChannelSelector.resources
+C:\Users\USER\Desktop\TEST 17.08.2021\test\obj\Debug\test.ConnectionCheckForm.resources
+C:\Users\USER\Desktop\TEST 17.08.2021\test\obj\Debug\test.GeneralTestForm.resources
+C:\Users\USER\Desktop\TEST 17.08.2021\test\obj\Debug\test.MessageBoxWithButtons.resources
+C:\Users\USER\Desktop\TEST 17.08.2021\test\obj\Debug\test.PerfomanceTestCounter.resources
+C:\Users\USER\Desktop\TEST 17.08.2021\test\obj\Debug\test.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\TEST 17.08.2021\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\TEST 17.08.2021\test\obj\Debug\test.exe
+C:\Users\USER\Desktop\TEST 17.08.2021\test\obj\Debug\test.pdb
+E:\Программы\TEST 26.08.2021\test\bin\Debug\test.exe.config
+E:\Программы\TEST 26.08.2021\test\bin\Debug\test.exe
+E:\Программы\TEST 26.08.2021\test\bin\Debug\test.pdb
+E:\Программы\TEST 26.08.2021\test\obj\Debug\test.csprojAssemblyReference.cache
+E:\Программы\TEST 26.08.2021\test\obj\Debug\test.AdressesEthernet.resources
+E:\Программы\TEST 26.08.2021\test\obj\Debug\test.BCVK_Client_MainForm.resources
+E:\Программы\TEST 26.08.2021\test\obj\Debug\test.ChannelSelector.resources
+E:\Программы\TEST 26.08.2021\test\obj\Debug\test.ConnectionCheckForm.resources
+E:\Программы\TEST 26.08.2021\test\obj\Debug\test.GeneralTestForm.resources
+E:\Программы\TEST 26.08.2021\test\obj\Debug\test.MessageBoxWithButtons.resources
+E:\Программы\TEST 26.08.2021\test\obj\Debug\test.PerfomanceTestCounter.resources
+E:\Программы\TEST 26.08.2021\test\obj\Debug\test.csproj.GenerateResource.cache
+E:\Программы\TEST 26.08.2021\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+E:\Программы\TEST 26.08.2021\test\obj\Debug\test.exe
+E:\Программы\TEST 26.08.2021\test\obj\Debug\test.pdb
+F:\Программы\TEST 26.08.2021\test\bin\Debug\test.exe.config
+F:\Программы\TEST 26.08.2021\test\bin\Debug\test.exe
+F:\Программы\TEST 26.08.2021\test\bin\Debug\test.pdb
+F:\Программы\TEST 26.08.2021\test\obj\Debug\test.csprojAssemblyReference.cache
+F:\Программы\TEST 26.08.2021\test\obj\Debug\test.AdressesEthernet.resources
+F:\Программы\TEST 26.08.2021\test\obj\Debug\test.BCVK_Client_MainForm.resources
+F:\Программы\TEST 26.08.2021\test\obj\Debug\test.ChannelSelector.resources
+F:\Программы\TEST 26.08.2021\test\obj\Debug\test.ConnectionCheckForm.resources
+F:\Программы\TEST 26.08.2021\test\obj\Debug\test.GeneralTestForm.resources
+F:\Программы\TEST 26.08.2021\test\obj\Debug\test.MessageBoxWithButtons.resources
+F:\Программы\TEST 26.08.2021\test\obj\Debug\test.PerfomanceTestCounter.resources
+F:\Программы\TEST 26.08.2021\test\obj\Debug\test.csproj.GenerateResource.cache
+F:\Программы\TEST 26.08.2021\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+F:\Программы\TEST 26.08.2021\test\obj\Debug\test.exe
+F:\Программы\TEST 26.08.2021\test\obj\Debug\test.pdb
+C:\Users\user\Desktop\TEST 26.08.2021\test\bin\Debug\test.exe.config
+C:\Users\user\Desktop\TEST 26.08.2021\test\bin\Debug\test.exe
+C:\Users\user\Desktop\TEST 26.08.2021\test\bin\Debug\test.pdb
+C:\Users\user\Desktop\TEST 26.08.2021\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\user\Desktop\TEST 26.08.2021\test\obj\Debug\test.AdressesEthernet.resources
+C:\Users\user\Desktop\TEST 26.08.2021\test\obj\Debug\test.BCVK_Client_MainForm.resources
+C:\Users\user\Desktop\TEST 26.08.2021\test\obj\Debug\test.ChannelSelector.resources
+C:\Users\user\Desktop\TEST 26.08.2021\test\obj\Debug\test.ConnectionCheckForm.resources
+C:\Users\user\Desktop\TEST 26.08.2021\test\obj\Debug\test.GeneralTestForm.resources
+C:\Users\user\Desktop\TEST 26.08.2021\test\obj\Debug\test.MessageBoxWithButtons.resources
+C:\Users\user\Desktop\TEST 26.08.2021\test\obj\Debug\test.PerfomanceTestCounter.resources
+C:\Users\user\Desktop\TEST 26.08.2021\test\obj\Debug\test.csproj.GenerateResource.cache
+C:\Users\user\Desktop\TEST 26.08.2021\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TEST 26.08.2021\test\obj\Debug\test.exe
+C:\Users\user\Desktop\TEST 26.08.2021\test\obj\Debug\test.pdb
+C:\Users\user\Desktop\TEST 02.09.2021\test\bin\Debug\test.exe.config
+C:\Users\user\Desktop\TEST 02.09.2021\test\bin\Debug\test.exe
+C:\Users\user\Desktop\TEST 02.09.2021\test\bin\Debug\test.pdb
+C:\Users\user\Desktop\TEST 02.09.2021\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\user\Desktop\TEST 02.09.2021\test\obj\Debug\test.AdressesEthernet.resources
+C:\Users\user\Desktop\TEST 02.09.2021\test\obj\Debug\test.BCVK_Client_MainForm.resources
+C:\Users\user\Desktop\TEST 02.09.2021\test\obj\Debug\test.ChannelSelector.resources
+C:\Users\user\Desktop\TEST 02.09.2021\test\obj\Debug\test.ConnectionCheckForm.resources
+C:\Users\user\Desktop\TEST 02.09.2021\test\obj\Debug\test.GeneralTestForm.resources
+C:\Users\user\Desktop\TEST 02.09.2021\test\obj\Debug\test.MessageBoxWithButtons.resources
+C:\Users\user\Desktop\TEST 02.09.2021\test\obj\Debug\test.PerfomanceTestCounter.resources
+C:\Users\user\Desktop\TEST 02.09.2021\test\obj\Debug\test.csproj.GenerateResource.cache
+C:\Users\user\Desktop\TEST 02.09.2021\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TEST 02.09.2021\test\obj\Debug\test.exe
+C:\Users\user\Desktop\TEST 02.09.2021\test\obj\Debug\test.pdb
+F:\Программы\TEST 02.09.2021\test\bin\Debug\test.exe.config
+F:\Программы\TEST 02.09.2021\test\bin\Debug\test.exe
+F:\Программы\TEST 02.09.2021\test\bin\Debug\test.pdb
+F:\Программы\TEST 02.09.2021\test\obj\Debug\test.csprojAssemblyReference.cache
+F:\Программы\TEST 02.09.2021\test\obj\Debug\test.AdressesEthernet.resources
+F:\Программы\TEST 02.09.2021\test\obj\Debug\test.BCVK_Client_MainForm.resources
+F:\Программы\TEST 02.09.2021\test\obj\Debug\test.ChannelSelector.resources
+F:\Программы\TEST 02.09.2021\test\obj\Debug\test.ConnectionCheckForm.resources
+F:\Программы\TEST 02.09.2021\test\obj\Debug\test.GeneralTestForm.resources
+F:\Программы\TEST 02.09.2021\test\obj\Debug\test.MessageBoxWithButtons.resources
+F:\Программы\TEST 02.09.2021\test\obj\Debug\test.PerfomanceTestCounter.resources
+F:\Программы\TEST 02.09.2021\test\obj\Debug\test.csproj.GenerateResource.cache
+F:\Программы\TEST 02.09.2021\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+F:\Программы\TEST 02.09.2021\test\obj\Debug\test.exe
+F:\Программы\TEST 02.09.2021\test\obj\Debug\test.pdb
+F:\Программы\TEST 08.09.2021\test\bin\Debug\test.exe.config
+F:\Программы\TEST 08.09.2021\test\bin\Debug\test.exe
+F:\Программы\TEST 08.09.2021\test\bin\Debug\test.pdb
+F:\Программы\TEST 08.09.2021\test\obj\Debug\test.csprojAssemblyReference.cache
+F:\Программы\TEST 08.09.2021\test\obj\Debug\test.AdressesEthernet.resources
+F:\Программы\TEST 08.09.2021\test\obj\Debug\test.BCVK_Client_MainForm.resources
+F:\Программы\TEST 08.09.2021\test\obj\Debug\test.ChannelSelector.resources
+F:\Программы\TEST 08.09.2021\test\obj\Debug\test.ConnectionCheckForm.resources
+F:\Программы\TEST 08.09.2021\test\obj\Debug\test.GeneralTestForm.resources
+F:\Программы\TEST 08.09.2021\test\obj\Debug\test.MessageBoxWithButtons.resources
+F:\Программы\TEST 08.09.2021\test\obj\Debug\test.PerfomanceTestCounter.resources
+F:\Программы\TEST 08.09.2021\test\obj\Debug\test.csproj.GenerateResource.cache
+F:\Программы\TEST 08.09.2021\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+F:\Программы\TEST 08.09.2021\test\obj\Debug\test.exe
+F:\Программы\TEST 08.09.2021\test\obj\Debug\test.pdb
+F:\Программы\TEST 13.09.2021\test\bin\Debug\test.exe.config
+F:\Программы\TEST 13.09.2021\test\bin\Debug\test.exe
+F:\Программы\TEST 13.09.2021\test\bin\Debug\test.pdb
+F:\Программы\TEST 13.09.2021\test\obj\Debug\test.csprojAssemblyReference.cache
+F:\Программы\TEST 13.09.2021\test\obj\Debug\test.AdressesEthernet.resources
+F:\Программы\TEST 13.09.2021\test\obj\Debug\test.BCVK_Client_MainForm.resources
+F:\Программы\TEST 13.09.2021\test\obj\Debug\test.ChannelSelector.resources
+F:\Программы\TEST 13.09.2021\test\obj\Debug\test.ConnectionCheckForm.resources
+F:\Программы\TEST 13.09.2021\test\obj\Debug\test.GeneralTestForm.resources
+F:\Программы\TEST 13.09.2021\test\obj\Debug\test.MessageBoxWithButtons.resources
+F:\Программы\TEST 13.09.2021\test\obj\Debug\test.PerfomanceTestCounter.resources
+F:\Программы\TEST 13.09.2021\test\obj\Debug\test.csproj.GenerateResource.cache
+F:\Программы\TEST 13.09.2021\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+F:\Программы\TEST 13.09.2021\test\obj\Debug\test.exe
+F:\Программы\TEST 13.09.2021\test\obj\Debug\test.pdb
+F:\Программы\TEST 27.09.2021\test\bin\Debug\test.exe.config
+F:\Программы\TEST 27.09.2021\test\bin\Debug\test.exe
+F:\Программы\TEST 27.09.2021\test\bin\Debug\test.pdb
+F:\Программы\TEST 27.09.2021\test\obj\Debug\test.csprojAssemblyReference.cache
+F:\Программы\TEST 27.09.2021\test\obj\Debug\test.AdressesEthernet.resources
+F:\Программы\TEST 27.09.2021\test\obj\Debug\test.BCVK_Client_MainForm.resources
+F:\Программы\TEST 27.09.2021\test\obj\Debug\test.ChannelSelector.resources
+F:\Программы\TEST 27.09.2021\test\obj\Debug\test.ConnectionCheckForm.resources
+F:\Программы\TEST 27.09.2021\test\obj\Debug\test.GeneralTestForm.resources
+F:\Программы\TEST 27.09.2021\test\obj\Debug\test.MessageBoxWithButtons.resources
+F:\Программы\TEST 27.09.2021\test\obj\Debug\test.PerfomanceTestCounter.resources
+F:\Программы\TEST 27.09.2021\test\obj\Debug\test.csproj.GenerateResource.cache
+F:\Программы\TEST 27.09.2021\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+F:\Программы\TEST 27.09.2021\test\obj\Debug\test.exe
+F:\Программы\TEST 27.09.2021\test\obj\Debug\test.pdb
+F:\Программы\TEST 30.09.2021\test\bin\Debug\test.exe.config
+F:\Программы\TEST 30.09.2021\test\bin\Debug\test.exe
+F:\Программы\TEST 30.09.2021\test\bin\Debug\test.pdb
+F:\Программы\TEST 30.09.2021\test\obj\Debug\test.csprojAssemblyReference.cache
+F:\Программы\TEST 30.09.2021\test\obj\Debug\test.AdressesEthernet.resources
+F:\Программы\TEST 30.09.2021\test\obj\Debug\test.BCVK_Client_MainForm.resources
+F:\Программы\TEST 30.09.2021\test\obj\Debug\test.ChannelSelector.resources
+F:\Программы\TEST 30.09.2021\test\obj\Debug\test.ConnectionCheckForm.resources
+F:\Программы\TEST 30.09.2021\test\obj\Debug\test.GeneralTestForm.resources
+F:\Программы\TEST 30.09.2021\test\obj\Debug\test.MessageBoxWithButtons.resources
+F:\Программы\TEST 30.09.2021\test\obj\Debug\test.PerfomanceTestCounter.resources
+F:\Программы\TEST 30.09.2021\test\obj\Debug\test.csproj.GenerateResource.cache
+F:\Программы\TEST 30.09.2021\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+F:\Программы\TEST 30.09.2021\test\obj\Debug\test.exe
+F:\Программы\TEST 30.09.2021\test\obj\Debug\test.pdb
+F:\Программы\TEST 12.10.2021\test\bin\Debug\test.exe.config
+F:\Программы\TEST 12.10.2021\test\bin\Debug\test.exe
+F:\Программы\TEST 12.10.2021\test\bin\Debug\test.pdb
+F:\Программы\TEST 12.10.2021\test\obj\Debug\test.csprojAssemblyReference.cache
+F:\Программы\TEST 12.10.2021\test\obj\Debug\test.AdressesEthernet.resources
+F:\Программы\TEST 12.10.2021\test\obj\Debug\test.BCVK_Client_MainForm.resources
+F:\Программы\TEST 12.10.2021\test\obj\Debug\test.ChannelSelector.resources
+F:\Программы\TEST 12.10.2021\test\obj\Debug\test.ConnectionCheckForm.resources
+F:\Программы\TEST 12.10.2021\test\obj\Debug\test.GeneralTestForm.resources
+F:\Программы\TEST 12.10.2021\test\obj\Debug\test.MessageBoxWithButtons.resources
+F:\Программы\TEST 12.10.2021\test\obj\Debug\test.PerfomanceTestCounter.resources
+F:\Программы\TEST 12.10.2021\test\obj\Debug\test.csproj.GenerateResource.cache
+F:\Программы\TEST 12.10.2021\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+F:\Программы\TEST 12.10.2021\test\obj\Debug\test.exe
+F:\Программы\TEST 12.10.2021\test\obj\Debug\test.pdb
+F:\Программы\TEST 25.10.2021\test\bin\Debug\test.exe.config
+F:\Программы\TEST 25.10.2021\test\bin\Debug\test.exe
+F:\Программы\TEST 25.10.2021\test\bin\Debug\test.pdb
+F:\Программы\TEST 25.10.2021\test\obj\Debug\test.csprojAssemblyReference.cache
+F:\Программы\TEST 25.10.2021\test\obj\Debug\test.AdressesEthernet.resources
+F:\Программы\TEST 25.10.2021\test\obj\Debug\test.BCVK_Client_MainForm.resources
+F:\Программы\TEST 25.10.2021\test\obj\Debug\test.ChannelSelector.resources
+F:\Программы\TEST 25.10.2021\test\obj\Debug\test.ConnectionCheckForm.resources
+F:\Программы\TEST 25.10.2021\test\obj\Debug\test.GeneralTestForm.resources
+F:\Программы\TEST 25.10.2021\test\obj\Debug\test.MessageBoxWithButtons.resources
+F:\Программы\TEST 25.10.2021\test\obj\Debug\test.PerfomanceTestCounter.resources
+F:\Программы\TEST 25.10.2021\test\obj\Debug\test.csproj.GenerateResource.cache
+F:\Программы\TEST 25.10.2021\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+F:\Программы\TEST 25.10.2021\test\obj\Debug\test.exe
+F:\Программы\TEST 25.10.2021\test\obj\Debug\test.pdb
+G:\Программы\TEST 15.11.2021\test\bin\Debug\test.exe.config
+G:\Программы\TEST 15.11.2021\test\bin\Debug\test.exe
+G:\Программы\TEST 15.11.2021\test\bin\Debug\test.pdb
+G:\Программы\TEST 15.11.2021\test\obj\Debug\test.csprojAssemblyReference.cache
+G:\Программы\TEST 15.11.2021\test\obj\Debug\test.AdressesEthernet.resources
+G:\Программы\TEST 15.11.2021\test\obj\Debug\test.BCVK_Client_MainForm.resources
+G:\Программы\TEST 15.11.2021\test\obj\Debug\test.ChannelSelector.resources
+G:\Программы\TEST 15.11.2021\test\obj\Debug\test.ConnectionCheckForm.resources
+G:\Программы\TEST 15.11.2021\test\obj\Debug\test.GeneralTestForm.resources
+G:\Программы\TEST 15.11.2021\test\obj\Debug\test.MessageBoxWithButtons.resources
+G:\Программы\TEST 15.11.2021\test\obj\Debug\test.PerfomanceTestCounter.resources
+G:\Программы\TEST 15.11.2021\test\obj\Debug\test.csproj.GenerateResource.cache
+G:\Программы\TEST 15.11.2021\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+G:\Программы\TEST 15.11.2021\test\obj\Debug\test.exe
+G:\Программы\TEST 15.11.2021\test\obj\Debug\test.pdb
+G:\Программы\TEST 29.11.2021\test\bin\Debug\test.exe.config
+G:\Программы\TEST 29.11.2021\test\bin\Debug\test.exe
+G:\Программы\TEST 29.11.2021\test\bin\Debug\test.pdb
+G:\Программы\TEST 29.11.2021\test\obj\Debug\test.csprojAssemblyReference.cache
+G:\Программы\TEST 29.11.2021\test\obj\Debug\test.AdressesEthernet.resources
+G:\Программы\TEST 29.11.2021\test\obj\Debug\test.BCVK_Client_MainForm.resources
+G:\Программы\TEST 29.11.2021\test\obj\Debug\test.ChannelSelector.resources
+G:\Программы\TEST 29.11.2021\test\obj\Debug\test.ConnectionCheckForm.resources
+G:\Программы\TEST 29.11.2021\test\obj\Debug\test.GeneralTestForm.resources
+G:\Программы\TEST 29.11.2021\test\obj\Debug\test.MessageBoxWithButtons.resources
+G:\Программы\TEST 29.11.2021\test\obj\Debug\test.PerfomanceTestCounter.resources
+G:\Программы\TEST 29.11.2021\test\obj\Debug\test.csproj.GenerateResource.cache
+G:\Программы\TEST 29.11.2021\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+G:\Программы\TEST 29.11.2021\test\obj\Debug\test.exe
+G:\Программы\TEST 29.11.2021\test\obj\Debug\test.pdb
+E:\Программы\TEST 30.11.2021\test\bin\Debug\test.exe.config
+E:\Программы\TEST 30.11.2021\test\bin\Debug\test.exe
+E:\Программы\TEST 30.11.2021\test\bin\Debug\test.pdb
+E:\Программы\TEST 30.11.2021\test\obj\Debug\test.csprojAssemblyReference.cache
+E:\Программы\TEST 30.11.2021\test\obj\Debug\test.AdressesEthernet.resources
+E:\Программы\TEST 30.11.2021\test\obj\Debug\test.BCVK_Client_MainForm.resources
+E:\Программы\TEST 30.11.2021\test\obj\Debug\test.ChannelSelector.resources
+E:\Программы\TEST 30.11.2021\test\obj\Debug\test.ConnectionCheckForm.resources
+E:\Программы\TEST 30.11.2021\test\obj\Debug\test.GeneralTestForm.resources
+E:\Программы\TEST 30.11.2021\test\obj\Debug\test.MessageBoxWithButtons.resources
+E:\Программы\TEST 30.11.2021\test\obj\Debug\test.PerfomanceTestCounter.resources
+E:\Программы\TEST 30.11.2021\test\obj\Debug\test.csproj.GenerateResource.cache
+E:\Программы\TEST 30.11.2021\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+E:\Программы\TEST 30.11.2021\test\obj\Debug\test.exe
+E:\Программы\TEST 30.11.2021\test\obj\Debug\test.pdb
+G:\Программы\TEST 30.11.2021\test\bin\Debug\test.exe.config
+G:\Программы\TEST 30.11.2021\test\bin\Debug\test.exe
+G:\Программы\TEST 30.11.2021\test\bin\Debug\test.pdb
+G:\Программы\TEST 30.11.2021\test\obj\Debug\test.csprojAssemblyReference.cache
+G:\Программы\TEST 30.11.2021\test\obj\Debug\test.AdressesEthernet.resources
+G:\Программы\TEST 30.11.2021\test\obj\Debug\test.BCVK_Client_MainForm.resources
+G:\Программы\TEST 30.11.2021\test\obj\Debug\test.ChannelSelector.resources
+G:\Программы\TEST 30.11.2021\test\obj\Debug\test.ConnectionCheckForm.resources
+G:\Программы\TEST 30.11.2021\test\obj\Debug\test.GeneralTestForm.resources
+G:\Программы\TEST 30.11.2021\test\obj\Debug\test.MessageBoxWithButtons.resources
+G:\Программы\TEST 30.11.2021\test\obj\Debug\test.PerfomanceTestCounter.resources
+G:\Программы\TEST 30.11.2021\test\obj\Debug\test.csproj.GenerateResource.cache
+G:\Программы\TEST 30.11.2021\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+G:\Программы\TEST 30.11.2021\test\obj\Debug\test.exe
+G:\Программы\TEST 30.11.2021\test\obj\Debug\test.pdb
+E:\Программы\TEST 06.12.2021\test\bin\Debug\test.exe.config
+E:\Программы\TEST 06.12.2021\test\bin\Debug\test.exe
+E:\Программы\TEST 06.12.2021\test\bin\Debug\test.pdb
+E:\Программы\TEST 06.12.2021\test\obj\Debug\test.csprojAssemblyReference.cache
+E:\Программы\TEST 06.12.2021\test\obj\Debug\test.AdressesEthernet.resources
+E:\Программы\TEST 06.12.2021\test\obj\Debug\test.BCVK_Client_MainForm.resources
+E:\Программы\TEST 06.12.2021\test\obj\Debug\test.ChannelSelector.resources
+E:\Программы\TEST 06.12.2021\test\obj\Debug\test.ConnectionCheckForm.resources
+E:\Программы\TEST 06.12.2021\test\obj\Debug\test.GeneralTestForm.resources
+E:\Программы\TEST 06.12.2021\test\obj\Debug\test.MessageBoxWithButtons.resources
+E:\Программы\TEST 06.12.2021\test\obj\Debug\test.PerfomanceTestCounter.resources
+E:\Программы\TEST 06.12.2021\test\obj\Debug\test.csproj.GenerateResource.cache
+E:\Программы\TEST 06.12.2021\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+E:\Программы\TEST 06.12.2021\test\obj\Debug\test.exe
+E:\Программы\TEST 06.12.2021\test\obj\Debug\test.pdb
+G:\Программы\TEST 06.12.2021\test\obj\Debug\test.csprojAssemblyReference.cache
+G:\Программы\TEST 06.12.2021\test\obj\Debug\test.AdressesEthernet.resources
+G:\Программы\TEST 06.12.2021\test\obj\Debug\test.BCVK_Client_MainForm.resources
+G:\Программы\TEST 06.12.2021\test\obj\Debug\test.ChannelSelector.resources
+G:\Программы\TEST 06.12.2021\test\obj\Debug\test.ConnectionCheckForm.resources
+G:\Программы\TEST 06.12.2021\test\obj\Debug\test.GeneralTestForm.resources
+G:\Программы\TEST 06.12.2021\test\obj\Debug\test.MessageBoxWithButtons.resources
+G:\Программы\TEST 06.12.2021\test\obj\Debug\test.PerfomanceTestCounter.resources
+G:\Программы\TEST 06.12.2021\test\obj\Debug\test.csproj.GenerateResource.cache
+G:\Программы\TEST 06.12.2021\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+G:\Программы\TEST 06.12.2021\test\obj\Debug\test.exe
+G:\Программы\TEST 06.12.2021\test\obj\Debug\test.pdb
+G:\Программы\TEST 06.12.2021\test\bin\Debug\test.exe.config
+G:\Программы\TEST 06.12.2021\test\bin\Debug\test.exe
+G:\Программы\TEST 06.12.2021\test\bin\Debug\test.pdb
+C:\Users\user\repos\tcpprima\PrimaTCP\test\bin\Debug\test.exe.config
+C:\Users\user\repos\tcpprima\PrimaTCP\test\bin\Debug\test.exe
+C:\Users\user\repos\tcpprima\PrimaTCP\test\bin\Debug\test.pdb
+C:\Users\user\repos\tcpprima\PrimaTCP\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\user\repos\tcpprima\PrimaTCP\test\obj\Debug\test.AdressesEthernet.resources
+C:\Users\user\repos\tcpprima\PrimaTCP\test\obj\Debug\test.BCVK_Client_MainForm.resources
+C:\Users\user\repos\tcpprima\PrimaTCP\test\obj\Debug\test.ChannelSelector.resources
+C:\Users\user\repos\tcpprima\PrimaTCP\test\obj\Debug\test.ConnectionCheckForm.resources
+C:\Users\user\repos\tcpprima\PrimaTCP\test\obj\Debug\test.GeneralTestForm.resources
+C:\Users\user\repos\tcpprima\PrimaTCP\test\obj\Debug\test.MessageBoxWithButtons.resources
+C:\Users\user\repos\tcpprima\PrimaTCP\test\obj\Debug\test.PerfomanceTestCounter.resources
+C:\Users\user\repos\tcpprima\PrimaTCP\test\obj\Debug\test.csproj.GenerateResource.cache
+C:\Users\user\repos\tcpprima\PrimaTCP\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\user\repos\tcpprima\PrimaTCP\test\obj\Debug\test.exe
+C:\Users\user\repos\tcpprima\PrimaTCP\test\obj\Debug\test.pdb

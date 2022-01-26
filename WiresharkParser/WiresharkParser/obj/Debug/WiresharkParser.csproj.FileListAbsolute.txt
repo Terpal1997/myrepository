@@ -1,0 +1,69 @@
+c:\users\администратор\documents\visual studio 2012\Projects\WiresharkParser\WiresharkParser\bin\Debug\WiresharkParser.exe.config
+C:\Users\Администратор\documents\visual studio 2012\Projects\WiresharkParser\WiresharkParser\bin\Debug\WiresharkParser.exe
+C:\Users\Администратор\documents\visual studio 2012\Projects\WiresharkParser\WiresharkParser\bin\Debug\WiresharkParser.pdb
+C:\Users\Администратор\documents\visual studio 2012\Projects\WiresharkParser\WiresharkParser\obj\Debug\WiresharkParser.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\documents\visual studio 2012\Projects\WiresharkParser\WiresharkParser\obj\Debug\MainWindow.baml
+C:\Users\Администратор\documents\visual studio 2012\Projects\WiresharkParser\WiresharkParser\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор\documents\visual studio 2012\Projects\WiresharkParser\WiresharkParser\obj\Debug\App.g.cs
+C:\Users\Администратор\documents\visual studio 2012\Projects\WiresharkParser\WiresharkParser\obj\Debug\WiresharkParser_MarkupCompile.cache
+C:\Users\Администратор\documents\visual studio 2012\Projects\WiresharkParser\WiresharkParser\obj\Debug\WiresharkParser.g.resources
+C:\Users\Администратор\documents\visual studio 2012\Projects\WiresharkParser\WiresharkParser\obj\Debug\WiresharkParser.Properties.Resources.resources
+C:\Users\Администратор\documents\visual studio 2012\Projects\WiresharkParser\WiresharkParser\obj\Debug\WiresharkParser.csproj.GenerateResource.Cache
+C:\Users\Администратор\documents\visual studio 2012\Projects\WiresharkParser\WiresharkParser\obj\Debug\WiresharkParser.exe
+C:\Users\Администратор\documents\visual studio 2012\Projects\WiresharkParser\WiresharkParser\obj\Debug\WiresharkParser.pdb
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\WiresharkParser\WiresharkParser\obj\Debug\WindowVsData.g.cs
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\WiresharkParser\WiresharkParser\obj\Debug\WiresharkParser_MarkupCompile.lref
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\WiresharkParser\WiresharkParser\obj\Debug\WindowVsData.baml
+D:\Лесин\WiresharkParser 22.10\WiresharkParser\bin\Debug\WiresharkParser.exe.config
+D:\Лесин\WiresharkParser 22.10\WiresharkParser\bin\Debug\WiresharkParser.exe
+D:\Лесин\WiresharkParser 22.10\WiresharkParser\bin\Debug\WiresharkParser.pdb
+D:\Лесин\WiresharkParser 22.10\WiresharkParser\obj\Debug\WiresharkParser.csprojAssemblyReference.cache
+D:\Лесин\WiresharkParser 22.10\WiresharkParser\obj\Debug\MainWindow.baml
+D:\Лесин\WiresharkParser 22.10\WiresharkParser\obj\Debug\MainWindow.g.cs
+D:\Лесин\WiresharkParser 22.10\WiresharkParser\obj\Debug\WindowVsData.g.cs
+D:\Лесин\WiresharkParser 22.10\WiresharkParser\obj\Debug\App.g.cs
+D:\Лесин\WiresharkParser 22.10\WiresharkParser\obj\Debug\WiresharkParser_MarkupCompile.cache
+D:\Лесин\WiresharkParser 22.10\WiresharkParser\obj\Debug\WiresharkParser_MarkupCompile.lref
+D:\Лесин\WiresharkParser 22.10\WiresharkParser\obj\Debug\WindowVsData.baml
+D:\Лесин\WiresharkParser 22.10\WiresharkParser\obj\Debug\WiresharkParser.g.resources
+D:\Лесин\WiresharkParser 22.10\WiresharkParser\obj\Debug\WiresharkParser.Properties.Resources.resources
+D:\Лесин\WiresharkParser 22.10\WiresharkParser\obj\Debug\WiresharkParser.csproj.GenerateResource.cache
+D:\Лесин\WiresharkParser 22.10\WiresharkParser\obj\Debug\WiresharkParser.csproj.CoreCompileInputs.cache
+D:\Лесин\WiresharkParser 22.10\WiresharkParser\obj\Debug\WiresharkParser.exe
+D:\Лесин\WiresharkParser 22.10\WiresharkParser\obj\Debug\WiresharkParser.pdb
+D:\Лесин\WiresharkParser 09.02.2021\WiresharkParser\bin\Debug\WiresharkParser.exe.config
+D:\Лесин\WiresharkParser 09.02.2021\WiresharkParser\bin\Debug\WiresharkParser.exe
+D:\Лесин\WiresharkParser 09.02.2021\WiresharkParser\bin\Debug\WiresharkParser.pdb
+D:\Лесин\WiresharkParser 09.02.2021\WiresharkParser\obj\Debug\WiresharkParser.csprojAssemblyReference.cache
+D:\Лесин\WiresharkParser 09.02.2021\WiresharkParser\obj\Debug\MainWindow.baml
+D:\Лесин\WiresharkParser 09.02.2021\WiresharkParser\obj\Debug\MainWindow.g.cs
+D:\Лесин\WiresharkParser 09.02.2021\WiresharkParser\obj\Debug\WindowVsData.g.cs
+D:\Лесин\WiresharkParser 09.02.2021\WiresharkParser\obj\Debug\App.g.cs
+D:\Лесин\WiresharkParser 09.02.2021\WiresharkParser\obj\Debug\WiresharkParser_MarkupCompile.cache
+D:\Лесин\WiresharkParser 09.02.2021\WiresharkParser\obj\Debug\WiresharkParser_MarkupCompile.lref
+D:\Лесин\WiresharkParser 09.02.2021\WiresharkParser\obj\Debug\WindowVsData.baml
+D:\Лесин\WiresharkParser 09.02.2021\WiresharkParser\obj\Debug\WiresharkParser.g.resources
+D:\Лесин\WiresharkParser 09.02.2021\WiresharkParser\obj\Debug\WiresharkParser.Properties.Resources.resources
+D:\Лесин\WiresharkParser 09.02.2021\WiresharkParser\obj\Debug\WiresharkParser.csproj.GenerateResource.cache
+D:\Лесин\WiresharkParser 09.02.2021\WiresharkParser\obj\Debug\WiresharkParser.csproj.CoreCompileInputs.cache
+D:\Лесин\WiresharkParser 09.02.2021\WiresharkParser\obj\Debug\WiresharkParser.exe
+D:\Лесин\WiresharkParser 09.02.2021\WiresharkParser\obj\Debug\WiresharkParser.pdb
+D:\Лесин\WiresharkParser 12.03.2021\WiresharkParser\obj\Debug\WiresharkParser.csprojAssemblyReference.cache
+D:\Лесин\WiresharkParser 12.03.2021\WiresharkParser\obj\Debug\MainWindow.baml
+D:\Лесин\WiresharkParser 12.03.2021\WiresharkParser\obj\Debug\MainWindow.g.cs
+D:\Лесин\WiresharkParser 12.03.2021\WiresharkParser\obj\Debug\SettingsWindow.g.cs
+D:\Лесин\WiresharkParser 12.03.2021\WiresharkParser\obj\Debug\WindowVsData.g.cs
+D:\Лесин\WiresharkParser 12.03.2021\WiresharkParser\obj\Debug\App.g.cs
+D:\Лесин\WiresharkParser 12.03.2021\WiresharkParser\obj\Debug\WiresharkParser_MarkupCompile.cache
+D:\Лесин\WiresharkParser 12.03.2021\WiresharkParser\obj\Debug\WiresharkParser_MarkupCompile.lref
+D:\Лесин\WiresharkParser 12.03.2021\WiresharkParser\obj\Debug\WiresharkParser.exe
+D:\Лесин\WiresharkParser 12.03.2021\WiresharkParser\obj\Debug\WiresharkParser.pdb
+D:\Лесин\WiresharkParser 12.03.2021\WiresharkParser\bin\Debug\WiresharkParser.exe.config
+D:\Лесин\WiresharkParser 12.03.2021\WiresharkParser\bin\Debug\WiresharkParser.exe
+D:\Лесин\WiresharkParser 12.03.2021\WiresharkParser\bin\Debug\WiresharkParser.pdb
+D:\Лесин\WiresharkParser 12.03.2021\WiresharkParser\obj\Debug\SettingsWindow.baml
+D:\Лесин\WiresharkParser 12.03.2021\WiresharkParser\obj\Debug\WindowVsData.baml
+D:\Лесин\WiresharkParser 12.03.2021\WiresharkParser\obj\Debug\WiresharkParser.g.resources
+D:\Лесин\WiresharkParser 12.03.2021\WiresharkParser\obj\Debug\WiresharkParser.Properties.Resources.resources
+D:\Лесин\WiresharkParser 12.03.2021\WiresharkParser\obj\Debug\WiresharkParser.csproj.GenerateResource.cache
+D:\Лесин\WiresharkParser 12.03.2021\WiresharkParser\obj\Debug\WiresharkParser.csproj.CoreCompileInputs.cache
